@@ -98,6 +98,6 @@ Thus, it means most of the properties avialbale in provided IOWA dataset is idea
 I found that the accuracy score for the algorithms fluctuate ranging from 90% to 98%. The more I trained the model, the accuracy was getting increased sharply.   
 
 15) ***Pickle and Load*** Prepared a model to load the best model for future reference. 
-Link best model:  
+Link best model:  https://drive.google.com/file/d/1QX2mTAidlTOtXu2w3mP6Xe72aKIJi4GB/view?usp=sharing
 
 16) Build Confusion Matrix and checked Variance in prediction quality 
