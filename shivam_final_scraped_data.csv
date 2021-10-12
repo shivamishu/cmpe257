@@ -1,0 +1,758 @@
+address,zip,BuildingType,CalendarYear built,HeatingHeating,SnowflakeCooling,ParkingParking,HOAHOA,LotLot,Price Square FeetPrice/sqft,Rent,Mortgage fees per month,Mortgage fees per year,Walk Score,School Rank,Violent Crime,Property Crime
+"2863 Spring Rose Cir, Coralville, IA 52241",52241,Single Family Residence,2018,Central Forced Air Natural Gas,Ceiling Fan(s) Central Air,1,405,,183,,1126,13512,16,11,759,3127
+"215 3rd Ave SW, Waverly, IA 50677",50677,Single Family Residence,1900,Forced Air Natural Gas,Central Air,2,,7405,96,,351,4206,72,49,,
+"813 Cherry St NW, Bondurant, IA 50035",50035,Townhouse,2021,Forced Air Gas Natural Gas,Central Air,2,120,3049,201,,499,5990,15,64,,
+"2405 36th St, Des Moines, IA 50310",50310,Single Family Residence,1925,Forced Air Gas,Central Air,,,6969,133,,212,2547,51,38,3127,4091
+"1418 Dorene Blvd, Carter Lake, IA 51510",51510,,,,,,,,,,,,35,145,,
+"1527 Mamie Eisenhower Ave, Boone, IA 50036",50036,Single Family Residence,1914,Forced Air Gas Natural Gas,Central Air,1,,6969,73,,159,1910,46,123,4091,1133
+"1310 25th Ave N, Fort Dodge, IA 50501",50501,SINGLE_FAMILY,1965,Forced air Gas,Central,1,,6969,98,,285,3423,20,157,1133,3020
+"702 W Park Rd, Iowa City, IA 52246",52246,Single Family Residence,1940,Natural Gas Central Forced Air Ceiling Electric,Electric Ceiling Fan(s),2,,47916,164,,850,10200,15,13,3020,1618
+"519 Main St, Muscatine, IA 52761",52761,SINGLE_FAMILY,1890,Forced air Gas,Central,,,7405,53,,163,1961,52,126,1618,1343
+"200 Jordan Dr, West Des Moines, IA 50265",50265,Single Family Residence,1974,Forced Air Gas Natural Gas,Central Air,2,,12632,232,,563,6758,53,34,,
+"120 S Cardinal Dr APT 10, Clarinda, IA 51632",51632,Townhouse,1999,Forced Air,Central Air,2,,6969,86,,529,6350,35,147,1343,1551
+"2084 Wedgewood Dr, Asbury, IA 52002",52002,SINGLE FAMILY - DETACHED,2003,Forced Air,Central Air,3,120,27878,156,,1167,14000,0,73,,
+"1675 Golf Course Blvd LOT 55, Independence, IA 50644",50644,SINGLE_FAMILY,1981,Forced air Propane / Butane,Central,,,849420,131,,335,4016,3,131,1551,1315
+"118 13th Ave E, Oskaloosa, IA 52577",52577,,,,,,,,,,,,27,139,1315,1787
+"729 20th St, West Des Moines, IA 50265",50265,Single Family Residence,1955,Forced Air Gas Natural Gas,Central Air,2,,8276,222,,531,6372,39,34,,
+"0 Riverside Rd, Washington, IA 52353",52353,Unimproved Land,,,,,,,,,0,0,78,155,1787,1805
+"4157 High St, West Des Moines, IA 50265",50265,,,,,,,,,,,,1,34,,
+"102 3rd Ave, Royal, IA 51357",51357,Single Family Residence,1900,Forced Air,Central Air,1,,14810,31,,64,765,35,,,
+"10225 Powell Ave, Johnston, IA 50131",10225,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,2,150,7405,298,,808,9698,6,,1805,1198
+"184 Aspen Dr, Norwalk, IA 50211",50211,,,,,,,,,,,,14,59,1198,750
+"4720 W 12th St, Davenport, IA 52804",52804,Single Family Residence,2020,Natural Gas Forced Air,,,,7840,216,,638,7650,8,137,750,3827
+"5322 Ingersoll Ave APT B 5, Des Moines, IA 50312",50312,Townhouse,1971,Forced Air Gas Natural Gas,Central Air,,230,,119,,227,2728,31,58,3827,4091
+"174 Aspen Dr, Norwalk, IA 50211",50211,,,,,,,,,,,,14,59,4091,750
+"5688 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,750,4091
+"711 Elm St, Harlan, IA 51537",51537,Single Family Residence,1948,Forced Air,Central Air,1,,10454,55,,210,2524,40,54,,
+"809 6th Ave, Council Bluffs, IA 51501",51501,MULTI_FAMILY,1910,Gas,Central,,,,63,,351,4208,76,120,4091,5845
+"35 SE Melrose Dr, Waukee, IA 50263",50263,Townhouse,2000,Electric Forced Air Gas,Central Air,2,200,2613,156,,380,4564,39,8,5845,759
+"5653 Leyden Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,147,1760,18,148,759,4091
+"305 NE Bel Aire Rd, Ankeny, IA 50021",50021,Single Family Residence,1963,Forced Air Gas Natural Gas,Central Air,2,,10018,283,,520,6245,64,24,,
+"950 Black Bear Bnd, North Liberty, IA 52317",52317,Single Family Residence,2005,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,3,,,153,,818,9815,30,14,4091,602
+"2825 George W Carver Ave, Ames, IA 50010",50010,SINGLE_FAMILY,1930,Gas,Central,1,,29621,170,,563,6758,46,12,602,1716
+"2916 Cornell Ave, Iowa City, IA 52245",52245,Single Family Residence,1966,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,2,,,151,,573,6872,32,27,1716,1618
+"1255 29th St NE, Cedar Rapids, IA 52402",52402,Single Family Residence,1956,Natural Gas,Ceiling Fan(s) Central Air,1,,10018,104,,467,5607,43,37,1618,3336
+"7204 Franklin Ave, Windsor Heights, IA 50324",50324,Single Family Residence,1962,Forced Air Gas Natural Gas,Central Air,2,,12197,124,,631,7574,42,68,,
+"3805 10th St, Des Moines, IA 50313",50313,Single Family Residence,1915,Forced Air Gas,Central Air Window Unit(s),1,,5227,182,,361,4333,71,154,3336,4091
+"2867 Spring Rose Cir, Coralville, IA 52241",52241,Single Family Residence,2020,Central Forced Air Natural Gas,Ceiling Fan(s) Central Air,1,405,,165,,1307,15680,12,11,4091,3127
+"527 Highview St, Nevada, IA 50201",50201,Single Family Residence,1965,Hot Water,Window Unit(s),2,,13504,157,,467,5607,19,39,3127,1260
+"103 Carson Ave, Iowa Falls, IA 50126",50126,Single Family Residence,1951,Forced Air,Central Air,1,,6534,60,,170,2037,24,133,1260,1658
+"4462 32nd St, Grinnell, IA 50112",50112,Single Family Residence,1900,Forced Air Gas Propane,Central Air,2,,26572,173,,595,7137,1,63,1658,1789
+"1914 E 14th St, Davenport, IA 52803",52803,Single Family Residence,1900,Natural Gas Forced Air,Window Unit(s),,,4791,35,,127,1527,61,46,1789,3827
+"50848 740th St, Anita, IA 50020",50848,Single Family Residence,1917,Forced Air Gas Propane,Central Air,,,214315,99,,380,4564,0,,,
+"1076 Highway 6, West Liberty, IA 52776",52776,Single Family Residence,1912,Natural Gas Radiant,None,,,342382,159,,593,7114,65,128,,
+"409 Iowa St, Hills, IA 52235",52235,Single Family Residence,1950,Central Forced Air Natural Gas,Central Air Electric,2,,10018,133,,393,4718,14,,,
+"2606 Knollcrest Dr, Burlington, IA 52601",52601,Single Family Residence,1960,Radiant,Window Unit(s),2,,35719,106,,297,3567,74,153,,
+"8 Julien Dubuque Dr, Dubuque, IA 52003",52003,SINGLE FAMILY - DETACHED,1973,Forced Air,Central Air,2,,7405,152,,584,7010,7,46,3827,1637
+"215 Broad St, Grinnell, IA 50112",50112,Single Family Residence,1964,Forced Air Gas Natural Gas,Central Air,,,10454,116,,244,2932,58,63,1637,1789
+"0 Marigold Blvd, Fairfield, IA 52556",52556,,,,,,,,,,,,31,72,,
+"631 Bethel Rd, Postville, IA 52162",52162,Unimproved Land,1919,Propane Leased Wood,Central Air,3,,,173,,956,11475,0,,,
+"620 W Boone St, Marshalltown, IA 50158",50158,Single Family Residence,1910,Forced Air,Central Air,,,10890,40,,149,1782,63,79,1789,2496
+"116 W 3rd St, Spencer, IA 51301",51301,Duplex,1910,Boiler,Window Unit(s),,,,46,,319,3822,71,140,2496,1662
+"2391 Rookwood Ln, Marion, IA 52302",52302,,,,,,,,,,,,4,33,1662,1278
+"214 Cedar St, Stockport, IA 52651",52651,Single Family Residence,1975,Baseboard,None,,,18295,33,,95,1145,7,,,
+"3091 Duckhorn Cv, Marion, IA 52302",52302,Condominium,2021,Forced Air Gas,Central Air,2,125,,238,,665,7982,0,33,1278,1278
+"2110 D Ave NE, Cedar Rapids, IA 52402",52402,Single Family Residence,1928,Forced Air Gas,Central Air,1,,6534,120,,298,3570,34,37,1278,3336
+"5507 SE 1st Ct, Des Moines, IA 50315",50315,Single Family Residence,1976,Forced Air Gas Natural Gas,Central Air,1,,8712,235,,446,5352,23,21,3336,4091
+"415 SW 60th St, Des Moines, IA 50312",50312,Single Family Residence,1958,Electric Forced Air,Central Air,,,7840,113,,287,3442,44,58,4091,4091
+"306 Oak Ave, Schleswig, IA 51461",51461,Single Family Residence,1972,Forced Air,Central Air,1,,12632,57,,302,3621,20,,,
+"103 High St, Lake View, IA 51450",51450,Single Family Residence,1942,Forced Air,Central Air,2,,10018,45,,147,1760,45,,,
+"2700 Heather View Cir, Marion, IA 52302",52302,Single Family Residence,1999,Forced Air Gas,Central Air,3,,23958,111,,733,8798,18,33,4091,1278
+"700 S 2nd St, Maquoketa, IA 52060",52060,SINGLE FAMILY - DETACHED,1940,Forced Air,None,,,7840,43,,96,1148,38,131,1278,2311
+"904 NW Sienna Dr, Grimes, IA 50111",50111,Single Family Residence,2016,Gas Natural Gas,Central Air,2,,7405,228,,669,8030,11,43,,
+"4120 Anna St, Iowa City, IA 52245",52245,Single Family Residence,2022,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,3,,,178,,977,11727,13,27,2311,1618
+"414 Longwood Dr NE, Cedar Rapids, IA 52402",52402,Single Family Residence,1927,Forced Air Gas,Central Air,2,,18295,109,,340,4077,58,37,1618,3336
+"807 5th St, Buffalo, IA 52728",52728,Single Family Residence,1900,Natural Gas Forced Air,Central Air,,,17424,114,,297,3567,34,,,
+"2481 Rookwood Ln, Marion, IA 52302",52302,Condominium,2021,Forced Air Gas,Central Air,3,,,154,,531,6372,3,33,3336,1278
+"4730 Westchester Dr NE UNIT C, Cedar Rapids, IA 52402",52402,Condominium,1994,Forced Air Gas,Central Air,2,154,,103,,338,4054,24,37,1278,3336
+"613 W Delaware St, Manchester, IA 52057",52057,Single Family Residence,1900,Forced Air Natural Gas,Central Air,2,,15246,85,,351,4208,53,95,,
+"506 1st St W, Independence, IA 50644",50644,Single Family Residence,1910,Forced Air,Central Air,1,,8712,112,,223,2675,50,131,3336,1315
+"1414 S 16th St, Centerville, IA 52544",52544,Single Family Residence,1934,Forced Air,Window Unit(s),2,,6969,29,,203,2439,31,,1315,2363
+"5630 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,140,1683,7,148,2363,4091
+"306 W 5th St, Spencer, IA 51301",51301,Single Family Residence,1895,Forced Air,Central Air,2,,6969,56,,159,1910,67,140,4091,1662
+"119 Grove St, Sioux City, IA 51103",51103,,,,,,,,,,,,21,150,1662,3890
+"3448 Southdale Dr, Ames, IA 50010",50010,Townhouse,1976,Forced Air Gas Natural Gas,Central Air,1,150,2613,119,,372,4460,28,12,3890,1716
+"3093 Duckhorn Cv, Marion, IA 52302",52302,Condominium,2021,Forced Air Gas,Central Air,2,125,,238,,665,7982,0,33,1716,1278
+"2580 Serenity Dr, Waukee, IA 50263",50263,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,,12632,293,,1005,12066,1,8,1278,759
+"2214 Ellis Ave, Sioux City, IA 51109",51109,Single Family Residence Residential,1930,See Remarks,None,1,,30928,172,,175,2104,12,141,759,3890
+"2015 SE Greentree Dr, Waukee, IA 50263",50263,Single Family Residence,2013,Forced Air Gas Natural Gas,Central Air,3,100,10890,256,,839,10072,12,8,3890,759
+"1275 NW 70th Ave, Ankeny, IA 50023",50023,Single Family Residence,1956,Forced Air Gas Natural Gas,Central Air,2,,33541,227,,637,7647,2,15,,
+"309 NE Oak Dr, Ankeny, IA 50021",50021,Single Family Residence,1969,Forced Air Gas Natural Gas,Central Air,2,,8712,224,,521,6248,75,24,,
+"108 E Union St, Manchester, IA 52057",52057,Single Family Residence,1870,Forced Air,Central Air,1,,8407,69,,319,3825,70,95,,
+"1621 NW 70th Pl, Ankeny, IA 50023",50023,Single Family Residence,1962,Forced Air Gas Natural Gas,Central Air,2,,15246,151,,946,11348,6,15,,
+"0 200th St, Washington, IA 52353",52353,Farm,,,,,,,,,,,42,155,759,1805
+"301 S Park St, Inwood, IA 51240",51240,Single Family Residence,1900,Central Natural Gas,One Central Air Unit,2,,7000,87,,249,2984,,,,
+"301 2nd St SE, Altoona, IA 50009",50009,Single Family Residence,1910,Forced Air Gas Natural Gas,Central Air,,,8712,121,,329,3952,55,75,,
+"4922 Raleigh Ln, Iowa City, IA 52245",52245,,,,,,,,,,,,5,27,1805,1618
+"1454 238th St, Creston, IA 50801",50801,,,,,,,,,,,,0,131,1618,2107
+"16415 N Valley Dr, Urbandale, IA 50323",16415,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,,10018,336,,1200,14405,1,110,2107,1022
+"137 Aspen Dr, Norwalk, IA 50211",50211,,,,,,,,,,,,30,59,1022,750
+"2959 NW Brookside Dr, Grimes, IA 50111",50111,Unimproved Land,,,,,,,,,255,3060,23,43,,
+"635 36th Ave N, Clinton, IA 52732",52732,Single Family Residence,2021,Natural Gas Forced Air,Central Air,,,10454,213,,765,9177,3,101,750,3647
+"5380 Crestview Hgts Dr, Bettendorf, IA 52722",52722,Single Family Residence,1965,Natural Gas 2+ Heating Systems Forced Air,2+ Cooling Systems Central Air,,50,20038,84,,637,7647,5,4,3647,1282
+"906 Mill St, Alden, IA 50006",50006,Single Family Residence,1887,Hot Water,Window Unit(s),1,,11761,40,,159,1910,22,,,
+"0 New Salem Rd, Marshalltown, IA 50158",50158,Unimproved Land,,,,,,,,,478,5738,24,79,1282,2496
+"162 Circle Dr, Springville, IA 52336",52336,Single Family Residence,1965,Forced Air Gas,Central Air Whole House Fan,1,,87120,147,,531,6375,21,,,
+"1601 Mulberry St, Granger, IA 50109",50109,,,,,,,,,,,,3,,,
+"1223 S 23rd St, Fort Dodge, IA 50501",50501,SINGLE_FAMILY,1949,Forced air Gas,Central,1,,6969,97,,149,1782,44,157,2496,3020
+"215 Randolph St, Waterloo, IA 50701",50701,Single Family Residence,1893,Natural Gas,Central Air,,,3484,61,,175,2104,70,116,3020,2484
+"LOT 90 Traders Pointe Cir, Council Bluffs, IA 51501",51501,LOT,,Gas,,,,,,,106,1272,1,120,2484,5845
+"1709 34th Ave SW UNIT 1, Altoona, IA 50009",50009,Townhouse,2004,Forced Air Gas Natural Gas,Central Air,1,175,,117,,297,3567,23,75,,
+"504 W 2nd St, Boone, IA 50036",50036,Single Family Residence,1950,Forced Air Gas Natural Gas,Central Air,1,,20038,178,,382,4590,35,123,5845,1133
+"2408 King Ave, Des Moines, IA 50320",50320,Single Family Residence,2004,Forced Air Gas Natural Gas,Central Air,2,,6969,170,,574,6882,23,145,1133,4091
+"630 Roosevelt Blvd, Osceola, IA 50213",50213,Single Family Residence,1959,Forced Air,Central Air,,,10890,120,,319,3822,36,142,4091,2393
+"1246 8th St, Manson, IA 50563",50563,SINGLE_FAMILY,1979,Forced air Gas,Central,1,,10890,108,,266,3188,41,,,
+"10582 Rolling Hills Dr, Burlington, IA 52601",10582,,,,,,,,,,,,3,,,
+"5328 Saint Andrews Cir, Des Moines, IA 50320",50320,Single Family Residence,2020,Forced Air Gas Natural Gas,Central Air,2,150,19602,228,,669,8032,4,145,2393,4091
+"1115 Aldrich Ave, Boone, IA 50036",50036,,,,,,,,,,,,41,123,4091,1133
+"317 SE 12th St, Ankeny, IA 50021",50021,Single Family Residence,1968,Forced Air Gas Natural Gas,Central Air,2,,10018,222,,539,6464,37,24,,
+"9614 Grand Oaks Dr NE, Cedar Rapids, IA 52402",52402,Single Family Residence,2010,Central Forced Air,Central Air,2,,7405,149,,498,5980,7,37,1133,3336
+"659 27th St, Des Moines, IA 50312",50312,Single Family Residence,1915,Forced Air Gas Natural Gas,Central Air,,,6534,207,,351,4208,69,58,3336,4091
+"202 N Linn St #205, Iowa City, IA 52245",52245,,,,,,,,,,,,92,27,4091,1618
+"1306 H Ave, Vinton, IA 52349",52349,Single Family Residence,1958,Forced Air Gas,Central Air,1,,8712,162,,340,4077,20,128,1618,631
+"601 Dakota Ave, Tiffin, IA 52340",52340,,,,,,,,,,,,3,104,,
+"1420 W 28th St, Sioux City, IA 51103",51103,Single Family Residence Residential,1952,Forced Air Fireplace(s),Central Air,4,,7405,143,,499,5992,65,150,631,3890
+"8058 Crestview Dr, Des Moines, IA 50320",50320,Single Family Residence,1964,Forced Air Gas Natural Gas,Central Air,,,10890,124,,382,4590,5,145,3890,4091
+"1410 Hamilton St SW, Cedar Rapids, IA 52404",52404,Single Family Residence,1890,Forced Air Gas,Wall/Window Unit(s),,,2613,77,,180,2155,65,106,4091,3336
+"2 12th Ave, Dysart, IA 52224",52224,Farm,,,,,,,,,,,0,,,
+"355 30th St NW, Cedar Rapids, IA 52405",52405,Single Family Residence,1961,Forced Air Natural Gas,Central Air,1,,6098,130,,360,4322,48,105,3336,3336
+"3065 Jackpine Dr, Waukee, IA 50263",50263,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,,14375,348,,1266,15195,7,8,3336,759
+"8302 Westown Pkwy UNIT 4110, West Des Moines, IA 50266",50266,Townhouse,2004,Forced Air Gas Natural Gas,Central Air,2,159,436,131,,294,3532,1,12,,
+"1818 Laurel St, Burlington, IA 52601",52601,Single Family Residence,1920,Forced Air,None,2,,4791,12,,26,306,30,153,,
+"2504 N Harrison St #1D, Davenport, IA 52803",52803,,,,,,,,,,,,56,46,759,3827
+"580 Linden Dr #304, Arnolds Park, IA 51331",51331,,,,,,,,,,,,45,93,,
+"0 Fehrway Dr, Arnolds Park, IA 51331",51331,Residential,,,,,,,,,913,10952,48,93,,
+"9533 University Ave APT 1, Clive, IA 50325",50325,Townhouse,1973,Forced Air Gas Natural Gas,Central Air,,223,,91,,149,1785,71,13,3827,699
+"133 Aspen Dr, Norwalk, IA 50211",50211,,,,,,,,,,,,30,59,699,750
+"932 Boston Way, Coralville, IA 52241",52241,,,,,,,,,,,,0,11,750,3127
+"920 8th Ave, Council Bluffs, IA 51501",51501,SINGLE_FAMILY,1910,Forced air Gas,Central,,,7150,102,,313,3761,58,120,3127,5845
+"9948 Thorton Dr, Johnston, IA 50131",50131,Townhouse,2018,Forced Air Gas Natural Gas,Central Air,3,180,10454,226,,818,9815,0,12,5845,1198
+"401 Crestwood Dr, Huxley, IA 50124",50124,Single Family Residence,2020,Forced Air Gas Natural Gas,Central Air,3,,17424,229,,729,8746,50,31,,
+"1109 S 46th St, West Des Moines, IA 50265",50265,Single Family Residence,2004,Forced Air Gas Natural Gas,Central Air,3,,13939,207,,1371,16448,17,34,,
+"1716 S Wilson Ave, Mason City, IA 50401",50401,Single Family Residence,1940,Forced Air,Central Air,2,,20909,53,,180,2155,22,149,1198,2925
+"3211 W 9th St, Waterloo, IA 50702",50702,Single Family Residence,1962,Forced Air,Ceiling Fan(s) Central Air,2,,10454,75,,359,4307,33,134,2925,2484
+"928 Lynda Rd, Waterloo, IA 50701",50701,Single Family Residence,1978,Forced Air,Central Air,2,,10454,121,,425,5097,72,116,2484,2484
+"2908 Quentin Trl, Logan, IA 51546",51546,Single Family Residence,2020,Forced Air Electric,Central Air,3,,318424,278,,1116,13388,0,,,
+"630 Spencer Ave, Council Bluffs, IA 51503",51503,SINGLE_FAMILY,1957,Forced air Gas,Central,,,9583,120,,372,4462,7,101,2484,5845
+"119 C Ave, Washington, IA 52247",52247,Single Family Residence,1900,Forced Air Natural Gas,Electric Wall/Window Unit(s),1,,,123,,255,3057,53,,5845,1805
+"10216 Powell Ave, Kellerton, IA 50133",10216,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,150,10890,260,,777,9325,9,,,
+"1401 Allowa St, Ayrshire, IA 50515",50515,Single Family Residence,1900,Forced Air,None,1,,26136,15,,35,423,0,,,
+"5618 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,1805,4091
+"0 Cooks Rd, Waukon, IA 52172",52172,Unimproved Land,,,,,,,,,53,638,71,107,,
+"1336 23rd St, Des Moines, IA 50311",50311,Multi Family,1890,,Window Unit(s),,,,61,,414,4970,80,60,4091,4091
+"422 8th Ave SW, Cedar Rapids, IA 52404",52404,Single Family Residence,1900,Forced Air Natural Gas,Central Air,1,,,93,,234,2802,71,106,4091,3336
+"1307 Allowa St, Ayrshire, IA 50515",50515,Single Family Residence,1888,Forced Air,Window Unit(s),2,,15246,5,,33,395,0,,,
+"422 Bryan Rd, Ottumwa, IA 52501",52501,Single Family Residence,1954,Forced Air,Central Air,2,,33106,55,,329,3952,17,36,3336,4120
+"1215 Drake Ave, Centerville, IA 52544",52544,Single Family Residence,1914,Baseboard,None,2,,6969,80,,166,1989,46,,4120,2363
+"1321 W 13th St S, Newton, IA 50208",50208,Single Family Residence,1956,Forced Air,Central Air,2,,14375,115,,634,7609,27,127,,
+"1090 Ridge Ln, Harlan, IA 51537",51537,Single Family Residence,2002,Geothermal,Central Air,2,,32234,111,,763,9154,0,54,,
+"417 College Hill Ave, Oskaloosa, IA 52577",52577,Single Family Residence,1951,Forced Air,Central Air,,,6534,39,,159,1912,35,139,2363,1787
+"2038 Northland Cir, Coralville, IA 52241",52241,Single Family Residence,2002,Natural Gas Central Forced Air,Electric Ceiling Fan(s) Central Air,2,,,136,,457,5482,0,11,1787,3127
+"525 W 18th St, Washington, IA 52353",52353,Unimproved Land,,,,,,,,,84,1007,2,155,3127,1805
+"8149 Hardwicke Dr, Johnston, IA 50131",50131,Single Family Residence,1997,Forced Air Gas Natural Gas,Central Air,3,420,13504,247,,1485,17824,32,12,1805,1198
+"1205 8th St S, Humboldt, IA 50548",50548,Single Family Residence,1976,Forced Air,Central Air,2,,9583,117,,317,3800,11,80,,
+"2010 Grantwood St, Iowa City, IA 52240",52240,Single Family Residence,1979,Natural Gas Forced Air,Central Air,2,,,125,,483,5801,38,40,1198,1618
+"4016 80th St, Urbandale, IA 50322",50322,Single Family Residence,1972,Forced Air Gas Natural Gas,Central Air,2,,10018,148,,744,8922,58,34,1618,1022
+"1771 1771 Golf Course Blvd, Independence, IA 50644",50644,Single Family Residence,2005,Geothermal,Central Air,3,360,92783,198,,2550,30600,2,131,1022,1315
+"2632 Racine Ave, Winthrop, IA 50682",50682,Unimproved Land,,,,,,,,,287,3442,0,,,
+"676 50th St, Des Moines, IA 50312",50312,Single Family Residence,1926,Hot Water Natural Gas,Central Air,2,,13939,214,,1060,12724,34,58,1315,4091
+"228 Bella Vista Dr, Carroll, IA 51401",51401,Unimproved Land,,,,,,,,,1541,18488,12,77,4091,1790
+"213 S Walnut St, Lisbon, IA 52253",52253,Single Family Residence,1898,Forced Air Gas,Central Air,2,,7405,115,,418,5011,0,125,,
+"1622 Center St NE, Cedar Rapids, IA 52402",52402,Single Family Residence,1941,Forced Air Gas,Central Air,,,11761,124,,276,3314,64,37,1790,3336
+"5660 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,3336,4091
+"7124 43rd Ave, Norwalk, IA 50211",50211,Single Family Residence,2021,Electric Forced Air Heat Pump Propane,Central Air,4,,222156,281,,1541,18488,10,59,4091,750
+"Of Randolph Rd, Marion, IA 52302",52302,Unimproved Land,,,,,,,,,1700,20400,76,33,750,1278
+"313 S Tama St, Manchester, IA 52057",52057,Single Family Residence,1900,Forced Air,Ceiling Fan(s),1,,7666,76,,313,3761,65,95,,
+"910 NE Trilein Dr, Ankeny, IA 50021",50021,Single Family Residence,1990,Forced Air Gas Natural Gas,Central Air,2,,10454,150,,680,8157,44,24,,
+"1002 Shoal Pointe Dr, Carter Lake, IA 51510",51510,SINGLE_FAMILY,2000,Forced air Electric Gas,Central,,,4748,134,,754,9052,11,145,,
+"1518 McKinley Pl, Iowa City, IA 52246",52246,,,,,,,,,,,,0,13,1278,1618
+"3307 Rosewood Ct NE, Cedar Rapids, IA 52402",52402,Single Family Residence,1962,Gas,Central Air,1,,8712,154,,504,6044,0,37,1618,3336
+"1519 7th Ave SE, Cedar Rapids, IA 52403",52403,Single Family Residence,1910,Gas,Central Air,,,,61,,159,1912,63,48,3336,3336
+"307 4th Ave, Charles City, IA 50616",50616,Single Family Residence,1947,Forced Air Natural Gas,Ceiling Fan(s) Window Unit(s),2,,6446,70,,175,2104,67,153,3336,968
+"LOT 14 Heritage Ridge Ests, Dubuque, IA 52002",52002,RESIDENTIAL LOT,,,,,,,,,340,4080,0,73,968,1637
+"406 S 11th St, Adel, IA 50003",50003,Single Family Residence,1900,Forced Air Gas Natural Gas,Central Air,1,,9583,133,,425,5097,54,35,1637,2142
+"7422 Dakota Cir, West Des Moines, IA 50266",50266,Single Family Residence,1997,,,2,,12197,172,,701,8412,31,12,,
+"620 E Madison Ave, Des Moines, IA 50313",50313,Single Family Residence,1956,Forced Air Gas Natural Gas,Central Air,2,,8712,167,,361,4332,50,154,2142,4091
+"5538 Gordon Ave NW, Cedar Rapids, IA 52405",52405,Single Family Residence,1959,Forced Air Gas,Central Air,2,,6098,113,,338,4054,27,105,4091,3336
+"758 216th Dr, Ogden, IA 50212",50212,Single Family Residence,2010,Forced Air Gas Natural Gas,Central Air,,,81893,105,,510,6117,14,,,
+"1612 B Ave NE, Cedar Rapids, IA 52402",52402,Single Family Residence,1890,Forced Air Gas,Central Air,2,,7405,67,,254,3047,0,37,3336,3336
+"5932 Sharon Ln NW, Cedar Rapids, IA 52405",52405,Single Family Residence,1963,Forced Air Gas,Central Air,1,,6534,83,,381,4577,18,105,3336,3336
+"1254 Forest Cir, Clive, IA 50325",50325,Single Family Residence,1984,Forced Air Gas Natural Gas,Central Air,2,,9147,154,,457,5482,61,13,3336,699
+"220 Broadway St, Webster City, IA 50595",50595,Single Family Residence,1900,Forced Air Gas Natural Gas,Central Air,3,,13068,25,,66,792,58,82,699,1093
+"1214 Northwestern Ave, Ames, IA 50010",50010,SINGLE_FAMILY,1945,Gas,Central,1,,4791,137,,425,5097,32,12,1093,1716
+"25682 Golden Pond Rd SE, Lone Tree, IA 52755",25682,Single Family Residence,,,,,600,,,,138,1658,0,,,
+"3385 Lundy Ln, Bettendorf, IA 52722",52722,Single Family Residence,1986,Natural Gas Forced Air Humidity Control Radiant Zoned,Central Air Whole House Fan,,,11326,156,,903,10838,39,4,1716,1282
+"712 Wilder Blvd, Ames, IA 50014",50014,SINGLE_FAMILY,2000,Forced air Other Gas,Central,,,12197,173,,671,8055,0,52,1282,1716
+"3701 Brook Ridge Ct UNIT 508, Des Moines, IA 50317",50317,Townhouse,2000,Forced Air Gas Natural Gas,Central Air,2,165,,119,,319,3822,9,148,1716,4091
+"1538 W Pleasant St, Davenport, IA 52804",52804,Single Family Residence,1890,Natural Gas,,,,6969,104,,223,2675,76,137,4091,3827
+"617 S 3rd Ave W, Newton, IA 50208",50208,Single Family Residence,1920,Forced Air Gas Natural Gas,Central Air,1,,8712,141,,393,4718,66,127,,
+"3610 38th St, Des Moines, IA 50310",50310,SINGLE_FAMILY,1947,Forced air Gas,Central,1,,10018,117,,591,7086,60,38,3827,4091
+"402 Maple Dr, Treynor, IA 51575",51575,Single Family Residence,1995,Forced Air,Central Air,2,,10890,127,,531,6375,5,,,
+"721 28th Ave, Middle Amana, IA 52307",52307,Single Family Residence,1992,Forced Air Gas,Central Air,1,,9147,156,,338,4054,16,,,
+"202 N Linn St #402, Iowa City, IA 52245",52245,,,,,,,,,,,,92,27,4091,1618
+"6012 Tulip Ct, Panora, IA 50216",50216,Unimproved Land,,,,,,,,,404,4845,0,,,
+"104 S Williams St, Wheatland, IA 52777",52777,Single Family Residence,1918,Natural Gas Forced Air,Window Unit(s),,,14810,77,,170,2037,33,,,
+"2208 N 5th St, Clinton, IA 52732",52732,Single Family Residence,1899,Natural Gas Forced Air,Central Air,,,5264,48,,189,2270,55,101,1618,3647
+"514 E 2nd St, Webster City, IA 50595",50595,Single Family Residence,1870,Forced Air,None,2,,14810,62,,101,1211,23,82,3647,1093
+"1112 S Mill St, Decorah, IA 52101",52101,Single Family Residence,1969,Hot Water,Wall Unit(s),2,,10890,112,,331,3973,53,36,1093,983
+"LOT 4 Twenty Matthews Pass, Bettendorf, IA 52722",52722,Single Family Residence,2021,Natural Gas Forced Air,,,,11326,231,,988,11858,0,4,983,1282
+"1920 Taylor Ave #C, Marshalltown, IA 50158",50158,,,,,,,,,,,,0,79,1282,2496
+"2758 O Ave NW #A, Cedar Rapids, IA 52405",52405,,,,,,,,,,,,5,105,2496,3336
+"2469 Pinard St, Dubuque, IA 52001",52001,SINGLE FAMILY - DETACHED,1900,Forced Air,Window Unit(s),,,2178,31,,96,1148,69,72,3336,1637
+"2820 Wall St, Sioux City, IA 51104",51104,Single Family Residence Residential,1978,Forced Air Fireplace(s),Central Air,2,,9228,175,,414,4972,42,64,1637,3890
+"13228 385th St, Carson, IA 51525",13228,SINGLE_FAMILY,1992,Forced air Gas,Central,,,142006,131,,844,10124,1,,,
+"10017 Powell Ave, Johnston, IA 50131",10017,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,150,7840,279,,896,10749,6,358,3890,1198
+"318 E Clay St, Osceola, IA 50213",50213,Single Family Residence,1930,Forced Air Gas Natural Gas,Central Air,2,,15246,101,,329,3952,59,142,1198,2393
+"410 N Shore Dr, Clear Lake, IA 50428",50428,Multi Family,1920,Forced Air,,1,,,230,,637,7647,54,58,2393,1747
+"624 W 1st St, Monticello, IA 52310",52310,Single Family Residence,1900,Gas Hot Water,Wall/Window Unit(s),,,14375,56,,298,3570,55,91,,
+"905 Conn St, Parkersburg, IA 50665",50665,Single Family Residence,2008,Forced Air Natural Gas,Central Air,1,,9147,141,,404,4842,40,,,
+"3020 Rhett Cir, Des Moines, IA 50321",50321,Single Family Residence,1993,Forced Air Gas Natural Gas,Central Air,3,,25265,162,,903,10838,11,67,1747,4091
+"2507 6th St, Emmetsburg, IA 50536",50536,Single Family Residence,1956,Forced Air,Central Air,2,,8712,105,,308,3698,61,103,,
+"581 Ash St, Ocheyedan, IA 51354",51354,Single Family Residence Residential,1978,Forced Air Fireplace(s),Central Air,2,,13939,130,,506,6069,12,,,
+"710 S 5th St, Knoxville, IA 50138",50138,Single Family Residence,1964,Gas Natural Gas,Central Air,1,,10454,133,,316,3787,41,138,,
+"3300 SW 33rd St, Des Moines, IA 50321",50321,Single Family Residence,1992,Forced Air Gas Natural Gas,Central Air,2,,23958,208,,1026,12316,7,67,4091,4091
+"180 Saint At Ave, Ogden, IA 50212",50212,Farm,,,,,,,,,,,0,,,
+"1102 Broadway St, Audubon, IA 50025",50025,Single Family Residence,1955,Forced Air Gas Natural Gas,Central Air,1,,7405,16,,34,405,21,,,
+"647 E Adams St, Marengo, IA 52301",52301,Single Family Residence,1948,Gas,Wall/Window Unit(s),,,8712,32,,74,892,27,,,
+"1903 23rd St, Des Moines, IA 50310",50310,Single Family Residence,1912,,,,,6098,102,,147,1760,0,38,4091,4091
+"801 4th St, Griswold, IA 51535",51535,SINGLE_FAMILY,1940,Forced air Gas,Central,,,7801,78,,176,2116,35,,,
+"4130 Fillmore Ln, Davenport, IA 52806",52806,Single Family Residence,1969,Natural Gas Forced Air,Central Air,,,8395,110,,446,5355,44,99,4091,3827
+"924 Helen St, Sioux City, IA 51105",51105,,,,,,,,,,,,18,125,3827,3890
+"5699 Walnut Ridge Dr, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,8,148,3890,4091
+"0 E Church St, Panora, IA 50216",50216,Unimproved Land,,,,,,,,,17,204,0,,,
+"3517 Monticello Ave, Waterloo, IA 50701",50701,Single Family Residence,1972,Forced Air Natural Gas,Central Air,3,,10018,99,,467,5607,32,116,4091,2484
+"506 N Richland St, Richland, IA 52585",52585,Single Family Residence,1920,Forced Air,Window Unit(s),2,,17424,35,,158,1900,25,,,
+"25631 Sinclair Ave, Allison, IA 50602",25631,Unimproved Land,1995,Electric,Ceiling Fan(s) Window Unit(s),3,,,68,,266,3188,0,,,
+"1136 Tamarack Trl, Iowa City, IA 52245",52245,Single Family Residence,2022,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,3,,,241,,1594,19122,3,27,2484,1618
+"305 Foote St, Sidney, IA 51652",51652,,,,,,,,,,,,30,,,
+"10025 Powell Ave, Johnston, IA 50131",10025,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,150,8276,193,,853,10236,6,134,1618,1198
+"1314 NW Beechwood St, Ankeny, IA 50023",50023,Single Family Residence,1979,Electric Forced Air Gas,Central Air,2,,8276,232,,542,6502,16,15,,
+"102 S Walnut St, Winfield, IA 52659",52659,Single Family Residence,1900,Forced Air,Central Air,2,,12197,49,,191,2292,36,,,
+"1695 170th St, Sioux City, IA 51106",51106,Single Family Residence Residential,1995,Forced Air,Central Air,2,,458687,176,,988,11858,0,65,1198,3890
+"3820 Sue Ln NW, Cedar Rapids, IA 52405",52405,Single Family Residence,1976,Forced Air Gas,Central Air Whole House Fan,2,,13068,135,,508,6094,55,105,3890,3336
+"129 Obrian St, Goose Lake, IA 52750",52750,Single Family Residence,1915,Forced Air Radiant,,,,9504,105,,340,4080,24,,,
+"1082 Adare Pass, Marion, IA 52302",52302,Single Family Residence,2017,Forced Air Gas,Central Air,3,,13939,228,,850,10199,2,33,3336,1278
+"2603 N 3rd St, Clinton, IA 52732",52732,Single Family Residence,1918,Natural Gas Forced Air,Window Unit(s),,,6272,38,,68,816,54,101,1278,3647
+"325 Russell Slade Blvd, Coralville, IA 52241",52241,Multi Family Single Family Residence,2022,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,3,,8276,226,,1540,18485,14,11,3647,3127
+"LOT 4 Seventeen Matthews Ct, Bettendorf, IA 52722",52722,Single Family Residence,2021,Natural Gas Forced Air,,,,11761,234,,940,11284,0,4,3127,1282
+"3756 Cottage Reserve Rd NE, Solon, IA 52333",52333,Single Family Residence,1983,Central Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,2,185,14375,312,,2497,29962,3,,,
+"231 31st Street Dr SE, Cedar Rapids, IA 52403",52403,Single Family Residence,1954,Gas Gravity,Wall/Window Unit(s),,,,135,,190,2282,0,48,1282,3336
+"1060 7th Ave, Wellman, IA 52356",52356,Single Family Residence,1935,Natural Gas Central Forced Air,Electric Central Air,1,,6969,139,,265,3185,35,,,
+"848 202nd St, Jefferson, IA 50129",50129,LOT,1916,Other Other,Other,1,,,206,,829,9942,0,151,,
+"526 S 9th St, Burlington, IA 52601",52601,Single Family Residence,1924,Forced Air,Central Air,1,,4356,10,,55,660,76,153,,
+"689 Waveland Dr, Marion, IA 52302",52302,Single Family Residence,2014,Forced Air,,2,,,122,,627,7522,4,33,3336,1278
+"1305 N 14th St, Fort Dodge, IA 50501",50501,SINGLE_FAMILY,1966,Forced air Gas,Central,2,,24394,189,,404,4842,11,157,1278,3020
+"0 Turnberry Dr, Norwalk, IA 50211",50211,Unimproved Land,,,,,,,,,2888,34651,0,59,3020,750
+"957 Mount Loretta Ave, Dubuque, IA 52003",52003,SINGLE FAMILY - DETACHED,1890,Forced Air,Central Air,1,,5227,123,,298,3570,0,46,750,1637
+"2335 20th St SW, Mason City, IA 50401",50401,SINGLE_FAMILY,1946,Forced air Gas,,2,,12197,93,,195,2343,24,149,1637,2925
+"3017 Fox Run, Des Moines, IA 50321",50321,,,,,,,,,,,,0,67,2925,4091
+"1814 Arlington Ave, Des Moines, IA 50314",50314,Single Family Residence,1885,Forced Air Gas Natural Gas,Central Air,,,7840,120,,627,7522,78,113,4091,4091
+"311 Main St, Union, IA 50258",50258,Single Family Residence,1913,Forced Air,None,2,,10018,25,,148,1772,0,,,
+"2110 NW Pleasant St, Ankeny, IA 50023",50023,Single Family Residence,1996,Forced Air Gas Natural Gas,Central Air,2,,8712,152,,701,8415,55,15,,
+"602 W Washington Blvd, Washington, IA 52353",52353,Single Family Residence,1890,Forced Air Natural Gas,Ceiling Fan(s) Central Air,2,,10018,75,,516,6194,67,155,4091,1805
+"2270 24th Ave, Marion, IA 52302",52302,Single Family Residence,1962,Forced Air Gas,Central Air,2,,7405,115,,425,5100,17,33,1805,1278
+"606 G Ave NW, Cedar Rapids, IA 52405",52405,Single Family Residence,1900,Forced Air Gas,Central Air,1,,,70,,202,2422,45,105,1278,3336
+"15500 N Tradewind Dr UNIT 3, Spirit Lake, IA 51360",15500,Condominium,1990,Fireplace(s) Forced Air,Central Air,2,,,,,1359,16307,0,,3336,1413
+"23896 Midland Trl, Dallas Center, IA 50063",23896,Single Family Residence,1986,Forced Air Gas Propane,Central Air,2,,279655,418,,1169,14022,0,,,
+"1206 Howard Rd, Storm Lake, IA 50588",50588,,,,,,,,,,,,0,90,1413,1620
+"1410 Hunter Dr, Norwalk, IA 50211",50211,Single Family Residence,1989,Forced Air Gas Natural Gas,Central Air,1,,9147,153,,404,4842,20,59,1620,750
+"529 Longwood Dr NE, Cedar Rapids, IA 52402",52402,Single Family Residence,1930,Forced Air Gas,Central Air,2,,6534,119,,340,4077,58,37,750,3336
+"10209 Powell Ave, Johnston, IA 50131",10209,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,2,150,7405,302,,808,9690,6,,3336,1198
+"617 S 12th St, Fort Dodge, IA 50501",50501,SINGLE_FAMILY,1914,Forced air Electric Gas,Central,2,,9583,61,,350,4205,71,157,1198,3020
+"800 E Edison Ave, Des Moines, IA 50315",50315,Single Family Residence,1900,Gas Heat Pump,None,,,4791,93,,202,2422,41,21,3020,4091
+"982 22nd Ave, Coralville, IA 52241",52241,Single Family Residence,1991,Forced Air Natural Gas,Ceiling Fan(s) Central Air,2,,5227,106,,489,5862,56,11,4091,3127
+"101 6th Ave, Sibley, IA 51249",51249,Single Family Residence Residential,1965,Forced Air,Central Air,1,,10890,112,,266,3188,35,94,,
+"200 W Nebraska St, Lenox, IA 50851",50851,,,,,,,,,,,,32,,,
+"4 04 140th Ave, Indianola, IA 50125",50125,Unimproved Land,,,,,,,,,606,7268,7,76,3127,1946
+"102 Center St, Decorah, IA 52101",52101,Single Family Residence,1969,Forced Air Natural Gas,Central Air,1,,10018,173,,445,5342,61,36,1946,983
+"6514 Sheridan Ave, Des Moines, IA 50322",50322,Single Family Residence,1964,Forced Air Gas Natural Gas,Central Air,2,,11326,177,,525,6298,50,34,983,4091
+"208 8th St SW, Dayton, IA 50530",50530,SINGLE_FAMILY,,Electric Gas,Central,4,,174240,108,,298,3570,26,,,
+"1426 Ranier Dr, Iowa City, IA 52246",52246,,,,,,,,,,,,0,13,4091,1618
+"2204 State Highway 26, Lansing, IA 52151",52151,Single Family Residence,1997,Forced Air Propane Leased,Central Air,,150,18295,216,,593,7114,43,,,
+"910 Avenue B, Council Bluffs, IA 51503",51503,SINGLE_FAMILY,1900,Forced air Electric Gas,Central,,,7919,62,,253,3034,77,101,1618,5845
+"701 SE Dovetail Rd APT 3, Grimes, IA 50111",50111,Townhouse,2005,Forced Air Gas Natural Gas,Central Air,1,160,,127,,233,2792,0,43,,
+"320 E 7th St, Ames, IA 50010",50010,Single Family Residence,1954,Forced Air,Central Air Window Unit(s),3,,12197,86,,520,6235,56,12,5845,1716
+"505 7th St, Burt, IA 50522",50522,Single Family Residence,1920,Forced Air,Central Air,2,,10018,42,,106,1272,10,,,
+"575 W 18th St, Washington, IA 52353",52353,Unimproved Land,,,,,,,,,84,1007,0,155,1716,1805
+"300 N Vine St, Creston, IA 50801",50801,Single Family Residence,1878,Forced Air,Window Unit(s),2,,8276,41,,191,2295,57,131,1805,2107
+"1918 Country Cove Ln, Altoona, IA 50009",50009,Single Family Residence,2002,Forced Air Gas Natural Gas,Central Air,2,200,9147,216,,765,9177,11,75,,
+"2843 Inwood Ave, Rockwell City, IA 50579",50579,Single Family Residence,1915,Forced Air,Central Air,,,290981,105,,489,5865,0,,,
+"1720 SE Clover Ridge Dr, Ankeny, IA 50021",50021,Single Family Residence,2010,Forced Air Gas Natural Gas,Central Air,3,,10890,203,,1062,12750,4,24,,
+"2687 Highway 1 NE, Iowa City, IA 52240",52240,Single Family Residence,1980,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,2,,57935,198,,742,8900,91,40,2107,1618
+"1113 Woodland Park Dr, West Des Moines, IA 50266",50266,Townhouse,1978,Forced Air Gas Natural Gas,Central Air,2,280,4356,186,,436,5228,29,12,,
+"1026 Davis Ave, Des Moines, IA 50315",50315,Single Family Residence,1910,Forced Air Gas Natural Gas,Central Air,,,6534,96,,234,2805,5,21,1618,4091
+"2855 Quasqueton Ave, Rowley, IA 52329",52329,Unimproved Land,1912,Propane,Ceiling Fan(s) Central Air,3,,,175,,1020,12240,0,,,
+"500 N 15th St, Indianola, IA 50125",50125,Single Family Residence,1998,Forced Air Gas Natural Gas,Central Air,2,,9583,171,,552,6627,17,76,4091,1946
+"275 S 61st St, West Des Moines, IA 50266",50266,Single Family Residence,2005,Forced Air Gas Natural Gas,Central Air,3,185,10454,185,,1254,15042,42,12,,
+"2516 110th St, Stanley, IA 50671",50671,,,,,,,,,,,,0,,,
+"6402 N Division St, Davenport, IA 52806",52806,,,,,,,,,,,,0,99,1946,3827
+"1002 Pointe Dr, Carter Lake, IA 51510",51510,Single Family Residence,2000,Forced Air Natural Gas,Central Air,2,150,4791,134,,754,9052,11,145,,
+"126 Cortland Ct, Norwalk, IA 50211",50211,,,,,,,,,,,,22,59,3827,750
+"2813 NW 3rd St, Ankeny, IA 50023",50023,Single Family Residence,1994,Forced Air Gas Natural Gas,Central Air,2,,11326,208,,742,8900,23,15,,
+"1203 9th Ave SE, Dyersville, IA 52040",52040,SINGLE FAMILY - DETACHED,1993,Forced Air,Central Air,2,,9240,122,,563,6755,52,85,,
+"5997 Applewood Dr, West Des Moines, IA 50266",50266,Single Family Residence,1994,Forced Air Gas Natural Gas,Central Air,2,,10018,190,,722,8667,26,12,,
+"1109 S Ave, Milford, IA 51351",51351,Single Family Residence,1974,Forced Air,Central Air,3,,16988,110,,487,5840,54,106,,
+"102 Hoover St, Waterloo, IA 50702",50702,Single Family Residence,1929,Forced Air Natural Gas,Central Air,1,,5227,100,,168,2012,57,134,750,2484
+"5612 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,2484,4091
+"651 Pine Ave, Norwalk, IA 50211",50211,Unimproved Land,,,,,,,,,149,1782,22,59,4091,750
+"2105 9th St, Harlan, IA 51537",51537,Single Family Residence,1960,Forced Air,Central Air,2,,14810,70,,445,5342,42,54,,
+"9868/9873 F Ave, Wapello, IA 52653",52653,,,,,,,,,,,,0,,,
+"LOT 4 21 Matthews Pass, Bettendorf, IA 52722",52722,Single Family Residence,2021,Natural Gas Forced Air,,,,11326,195,,1062,12750,0,4,750,1282
+"0 Highway 3, Goldfield, IA 50542",50542,Farm,,,,,,,,,,,10,,,
+"739 Boone St W, Webster City, IA 50595",50595,SINGLE_FAMILY,,Forced air Gas,Central,1,,10236,94,,168,2014,60,82,1282,1093
+"32972 Homestead Dr, Granger, IA 50109",32972,Single Family Residence,1932,Forced Air Gas Natural Gas,Central Air,2,,120661,159,,765,9180,4,,,
+"12340 Bison Trl, Unionville, IA 52594",12340,Unimproved Land,,,,,,,,,85,1020,0,,,
+"408 New York Ave, Creston, IA 50801",50801,Single Family Residence,1892,Forced Air,Central Air,1,,5227,97,,189,2270,71,131,1093,2107
+"301 Cedar Dr, Gilbert, IA 50105",50105,SINGLE_FAMILY,2021,,,,,15246,265,,844,10127,4,8,,
+"37 Eagles Crest Dr, Davenport, IA 52804",52804,Single Family Residence,2021,Natural Gas Forced Air,,,,7405,201,,512,6138,0,137,2107,3827
+"611 Scenic Dr, Clinton, IA 52732",52732,Single Family Residence,1967,Natural Gas Forced Air,Central Air,,,9670,52,,159,1912,6,101,3827,3647
+"LOT 3 Addyson Dr, Bettendorf, IA 52722",52722,Single Family Residence,2021,Natural Gas Forced Air,,,150,8276,245,,834,10009,4,4,3647,1282
+"LOT 4 Fifteen Matthews Ct, Bettendorf, IA 52722",52722,Single Family Residence,2021,Natural Gas Forced Air,,,,10454,257,,903,10838,52,4,1282,1282
+"210 Locust St, Strawberry Point, IA 52076",52076,Single Family Residence,1962,Forced Air,Central Air,1,,5227,105,,251,3009,38,,,
+"LOT 4 23 Matthews Pass, Bettendorf, IA 52722",52722,Single Family Residence,2021,Natural Gas Forced Air,,,,11326,206,,1025,12304,38,4,1282,1282
+"5640 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,147,1760,7,148,1282,4091
+"303 3rd St #1/2, Low Moor, IA 52757",52757,,,,,,,,,,,,48,,,
+"512 6th St, Kensett, IA 50448",50448,Single Family Residence,1900,Forced Air,Window Unit(s),2,,16553,43,,175,2103,4,,,
+"447 White Oak Rd, Guttenberg, IA 52052",52052,SINGLE FAMILY - ATTACHED,1995,Forced Air,Central Air,4,200,14810,243,,744,8925,4,,,
+"3024 Willowwood Dr, Bettendorf, IA 52722",52722,Condominium Single Family Residence,1981,Natural Gas,Central Air,,130,,101,,361,4332,21,4,4091,1282
+"305 S Main St, Maquoketa, IA 52060",52060,SINGLE FAMILY - DETACHED,1918,Forced Air,Central Air,1,,7405,59,,231,2767,59,131,1282,2311
+"302 2nd St SW, Waverly, IA 50677",50677,Single Family Residence,1921,Forced Air Natural Gas,Central Air,1,,6969,96,,297,3567,72,49,,
+"4805 86th St APT 29, Urbandale, IA 50322",50322,Townhouse,1981,Forced Air Gas Natural Gas,Central Air,1,203,,126,,271,3251,0,34,2311,1022
+"308 N Vine St, Creston, IA 50801",50801,Single Family Residence,1890,Baseboard,None,,,7405,61,,159,1912,52,131,1022,2107
+"816 17th St, West Des Moines, IA 50265",50265,Single Family Residence,1955,Forced Air Gas Natural Gas,Central Air,1,,11326,190,,478,5738,28,34,,
+"1813 Jenny Ln, Eldora, IA 50627",50627,Single Family Residence,1977,Baseboard,Central Air,2,,17424,80,,304,3644,21,,,
+"6332 N Division St, Davenport, IA 52806",52806,Single Family Residence,1941,Natural Gas Forced Air,Central Air,,,15246,156,,361,4335,27,99,2107,3827
+"2485 360th St, Harcourt, IA 50544",50544,Single Family Residence,1976,Forced Air Gas Propane,Central Air,2,,102802,165,,574,6885,0,,,
+"187 S Cove Dr, Storm Lake, IA 50588",50588,Single Family Residence Residential,1971,Baseboard Fireplace(s),Central Air,2,,30056,285,,1488,17850,3,90,3827,1620
+"612 S Sycamore St, Monticello, IA 52310",52310,Single Family Residence,1900,Forced Air Gas,Central Air,1,,18295,108,,287,3440,76,91,,
+"5720 Summerland Dr, Waterloo, IA 50701",50701,Single Family Residence,2010,Electric,Ceiling Fan(s) Central Air,2,350,6534,130,,550,6602,6,116,1620,2484
+"3060 110th St, Lenox, IA 50851",50851,,,,,,,,,,,,0,,,
+"907 Ella Ave, Tiffin, IA 52340",52340,Single Family Residence,2022,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,3,,9583,174,,1062,12747,5,104,,
+"261 SE 2nd St, Ogden, IA 50212",50212,Single Family Residence,1955,Forced Air Gas Natural Gas,Central Air,1,,10890,134,,338,4054,35,,,
+"1617 5th Ave E, Spencer, IA 51301",51301,Single Family Residence,1956,Forced Air,Central Air,1,,11326,105,,295,3544,39,140,2484,1662
+"1022 Hickory Hill Ct #U A 8, Clinton, IA 52732",52732,,,,,,,,,,,,9,101,1662,3647
+"4109 Lafayette Rd, Evansdale, IA 50707",50707,Single Family Residence,1952,Forced Air,Central Air,1,,28750,129,,241,2894,37,55,,
+"516 Mill Run, Dubuque, IA 52002",52002,SINGLE FAMILY - DETACHED,2010,Forced Air,Central Air,3,,37026,139,,1190,14280,34,73,3647,1637
+"201 Washington St, Marne, IA 51552",51552,Single Family Residence,1957,Forced Air,Central Air,1,,12197,45,,168,2012,14,,,
+"604 Randall Dr, Solon, IA 52333",52333,Single Family Residence,2003,Forced Air Natural Gas,Ceiling Fan(s) Central Air,2,,6969,147,,691,8288,7,,,
+"426 S Garfield Ave, Burlington, IA 52601",52601,Single Family Residence,1880,Forced Air,None,,,8276,7,,21,254,62,153,,
+"6572 SE Sunsplash Dr, Pleasant Hill, IA 50327",50327,Single Family Residence,2011,Forced Air Gas Natural Gas,Central Air,2,,8276,228,,637,7647,0,76,,
+"1419 W 39th St, Davenport, IA 52806",52806,Condominium Single Family Residence,2017,Natural Gas Forced Air Humidity Control,Central Air,,90,,262,,765,9177,0,99,1637,3827
+"2913 S Union St, Des Moines, IA 50315",50315,Single Family Residence,1956,Forced Air Gas Natural Gas,Central Air,1,,9147,155,,255,3060,31,21,3827,4091
+"601 S O St, Indianola, IA 50125",50125,Single Family Residence,1955,Forced Air Gas Natural Gas,Central Air,3,,11761,184,,478,5738,39,76,4091,1946
+"3280 Zander Ln, Dexter, IA 50070",50070,Single Family Residence,2008,Geothermal,Geothermal,2,,298386,309,,2017,24200,0,,,
+"1520 Center St, Des Moines, IA 50314",50314,Single Family Residence,1890,Forced Air Gas Natural Gas,Central Air,2,,7405,201,,637,7647,64,113,1946,4091
+"2725 3rd Ave, Marion, IA 52302",52302,Single Family Residence,1958,Forced Air Gas,Central Air,1,,8276,144,,400,4794,55,33,4091,1278
+"6284 S31 Hwy, Hartford, IA 50118",50118,Single Family Residence,1994,Forced Air Gas Propane,Central Air,3,,2382296,479,,2656,31875,0,,,
+"1627 Main St, Adel, IA 50003",50003,Single Family Residence,1923,Forced Air Gas Natural Gas,Central Air,1,,9147,145,,343,4118,54,35,1278,2142
+"17 Benton Ave E, Albia, IA 52531",52531,Unimproved Land,,,,,,,,,75,905,67,124,,
+"616 N Bluff Blvd, Clinton, IA 52732",52732,Single Family Residence,1955,Natural Gas Forced Air,Central Air,,,4878,65,,255,3057,47,101,2142,3647
+"1510 Broadview Ct, Ely, IA 52227",52227,Single Family Residence,2011,Forced Air Gas,Central Air,2,,8276,126,,510,6117,34,104,,
+"924 2nd St NW, Waukon, IA 52172",52172,Single Family Residence,1966,Forced Air Natural Gas,Ceiling Fan(s) Central Air,1,,10890,85,,329,3952,21,107,,
+"1500 S Grandview Ave, Dubuque, IA 52003",52003,SINGLE FAMILY - DETACHED,1950,Forced Air,Central Air,2,,16117,164,,436,5228,8,46,3647,1637
+"4136 Hickory Ln, Sioux City, IA 51106",51106,Single Family Residence Residential,1986,Forced Air Fireplace(s),Central Air,2,,10454,81,,574,6885,45,65,1637,3890
+"1117 Wier St, Muscatine, IA 52761",52761,SINGLE_FAMILY,1875,Other Gas,Central,2,,30056,123,,509,6107,8,126,3890,1343
+"138 Aspen Dr, Norwalk, IA 50211",50211,,,,,,,,,,,,25,59,1343,750
+"2028 7th Ave, Council Bluffs, IA 51501",51501,SINGLE_FAMILY,1910,Forced air Gas,Central,,,5663,45,,159,1912,0,120,750,5845
+"601 Maple St, Anita, IA 50020",50020,Single Family Residence,1962,Forced Air,Central Air,1,,10890,54,,244,2932,41,,,
+"1809 Central Ave, Northwood, IA 50459",50459,SINGLE_FAMILY,1967,,,,,165092,54,,514,6171,28,,,
+"8350 Ep True Pkwy UNIT 1308, West Des Moines, IA 50266",50266,Townhouse,2006,Forced Air Gas Natural Gas,Central Air,2,250,,133,,319,3822,15,12,,
+"317 5th Ave NW, Fort Dodge, IA 50501",50501,SINGLE_FAMILY,1970,Forced air Gas,Central,2,,11761,145,,265,3185,10,157,5845,3020
+"1100 Greenview St, Kelley, IA 50134",50134,SINGLE_FAMILY,1979,Other Other,Other,2,,9457,230,,436,5228,0,,,
+"1206 E Monroe St, Mount Ayr, IA 50854",50854,Single Family Residence,1920,Forced Air,Central Air,2,,29621,37,,84,1007,21,,,
+"5655 Sun Valley Dr, Asbury, IA 52002",52002,SINGLE FAMILY - DETACHED,1976,Forced Air,Central Air,2,,11326,141,,489,5865,18,73,,
+"202 N Linn St #204, Iowa City, IA 52245",52245,,,,,,,,,,,,92,27,3020,1618
+"1840 NW 72nd Pl, Ankeny, IA 50023",50023,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,,13068,211,,914,10962,1,15,,
+"2740 Boston Ave, Des Moines, IA 50310",50310,Single Family Residence,1962,Forced Air Gas Natural Gas,Central Air,2,,7840,172,,404,4845,0,38,1618,4091
+"623 Sumner St, Waterloo, IA 50703",50703,Single Family Residence,1912,Electric,Central Air,,,6098,42,,121,1453,27,151,4091,2484
+"1717 E 27th St, Des Moines, IA 50317",50317,Single Family Residence,1917,Forced Air Gas Natural Gas,None,,,6969,169,,276,3312,53,148,2484,4091
+"2108 53rd St, Des Moines, IA 50310",50310,Single Family Residence,1949,Forced Air Gas Natural Gas,Central Air,1,,9583,149,,489,5865,0,38,4091,4091
+"1128 S Atticus St, West Des Moines, IA 50266",50266,Townhouse,2017,Forced Air Gas Natural Gas,Central Air,2,180,4791,263,,733,8798,1,12,,
+"3106 Spring Valley Rd, Dubuque, IA 52001",52001,SINGLE FAMILY - DETACHED,1976,Forced Air,Central Air,2,,10018,106,,616,7392,10,72,4091,1637
+"1 M Ave, Grundy Center, IA 50638",50638,Farm,,,,,,,,,,,12,,,
+"6720 Wildbloom Ct, Sioux City, IA 51106",51106,Single Family Residence Residential,2017,Forced Air Fireplace(s),Central Air,3,,19166,147,,1169,14024,0,65,1637,3890
+"84 Keeneland Ct, Pleasant Hill, IA 50327",50327,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,2,185,2954,276,,619,7432,17,76,,
+"1225 3rd Ave N, Clinton, IA 52732",52732,Single Family Residence,1970,Natural Gas Forced Air,Central Air,,,11326,80,,382,4590,16,101,3890,3647
+"2801 Ep True Pkwy UNIT 803, West Des Moines, IA 50265",50265,Townhouse,1997,Forced Air Gas Natural Gas,Central Air,2,375,2178,143,,478,5738,13,34,,
+"2812 Carey Ave, Davenport, IA 52803",52803,Single Family Residence,1890,Natural Gas Forced Air,Central Air,,,5040,88,,319,3825,41,46,3647,3827
+"4709 Brookshire Pl, Sioux City, IA 51106",51106,Condominium Residential,2004,Forced Air,Central Air,2,240,,106,,691,8288,55,65,3827,3890
+"5676 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,3890,4091
+"4401 81st St, Urbandale, IA 50322",50322,Single Family Residence,1980,Forced Air Gas Natural Gas,Central Air,2,,13504,228,,520,6245,0,34,4091,1022
+"1250 E 37th St, Des Moines, IA 50317",50317,Single Family Residence,1951,Forced Air Gas Natural Gas,Central Air Window Unit(s),2,,6534,157,,207,2486,26,148,1022,4091
+"207 Prairie St, Bayard, IA 50029",50029,Single Family Residence,1956,Forced Air,Central Air,1,,12197,28,,53,637,14,,,
+"405 S 6th St, Dunlap, IA 51529",51529,Single Family Residence,1900,Forced Air,Central Air,,,9147,72,,318,3812,29,,,
+"5 S 5th St, Eldridge, IA 52748",52748,Single Family Residence,2021,Natural Gas Forced Air,,,,7405,229,,884,10612,63,66,4091,602
+"319 E 8th St N, Newton, IA 50208",50208,Single Family Residence,1910,Forced Air,Central Air,2,,7840,80,,308,3698,0,127,,
+"2 Newburg Rd, Grinnell, IA 50112",50112,Farm,,,,,,,,,,,0,63,602,1789
+"1014 Hillcrest Dr, Fairfield, IA 52556",52556,Single Family Residence,1975,Forced Air,Central Air,2,,16117,88,,563,6758,17,72,,
+"205 Cypress Dr, Huxley, IA 50124",50124,,,,,,,,,,,,54,31,,
+"5606 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,130,1556,7,148,1789,4091
+"1629 Garden Ave, Waterloo, IA 50701",50701,Single Family Residence,1971,Forced Air,Central Air,3,,7840,114,,414,4970,33,116,4091,2484
+"5671 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,151,1810,7,148,2484,4091
+"1765 NW 73rd Pl, Ankeny, IA 50023",50023,Unimproved Land,,,,,,,,,181,2168,3,15,,
+"2634 Farnam St, Davenport, IA 52803",52803,Single Family Residence,1920,Natural Gas Forced Air,,,,4356,52,,297,3567,53,46,4091,3827
+"1120 Eagles Crest Dr, Davenport, IA 52804",52804,Single Family Residence,2021,Natural Gas Forced Air,,,,7405,161,,729,8747,4,137,3827,3827
+"5646 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,147,1760,7,148,3827,4091
+"1619 S 14th St, Clinton, IA 52732",52732,Single Family Residence,1954,Natural Gas Forced Air,Central Air,,,23958,110,,186,2231,28,101,4091,3647
+"632 3rd St NE, Mason City, IA 50401",50401,SINGLE_FAMILY,1920,Forced air,,3,,8712,45,,180,2155,42,149,3647,2925
+"230 Christopher Ave, Waukee, IA 50263",50263,Single Family Residence,1972,Forced Air Gas Natural Gas,Central Air,2,,7840,237,,542,6502,18,8,2925,759
+"3600 Dubuque Ave, Des Moines, IA 50317",50317,Single Family Residence,1932,Forced Air Gas Natural Gas,Central Air,,,16988,140,,276,3312,26,148,759,4091
+"414 Belmont Ave, Waterloo, IA 50701",50701,Townhouse,1929,Forced Air Natural Gas,Window Unit(s),,,1742,24,,53,635,42,116,4091,2484
+"337 Robinson Dr, Fort Dodge, IA 50501",50501,SINGLE_FAMILY,1900,Forced air Gas,None,1,,70132,97,,212,2550,11,157,2484,3020
+"421 W High Rd, Norwalk, IA 50211",50211,,,,,,,,,,,,22,59,3020,750
+"1208 Howard Rd, Storm Lake, IA 50588",50588,,,,,,,,,,,,0,90,750,1620
+"0 Vernon St, West Burlington, IA 52655",52655,Unimproved Land,,,,,,,,,64,765,46,142,,
+"811 Euclid Ave, Waterloo, IA 50701",50701,Single Family Residence,1931,Natural Gas,Central Air,1,,7100,75,,391,4692,37,116,1620,2484
+"340 70th St, Dows, IA 50071",50071,Single Family Residence,1897,Forced Air,Central Air,2,,61420,77,,380,4564,0,,,
+"1102 9th Ave E, Oskaloosa, IA 52577",52577,Single Family Residence,1949,Forced Air,Central Air,2,,6969,50,,250,2996,23,139,2484,1787
+"311 Elm St, Pella, IA 50219",50219,Single Family Residence,1966,Forced Air Gas Natural Gas,Central Air,2,,10454,191,,478,5738,15,25,1787,1239
+"1254 7th Ave N, Fort Dodge, IA 50501",50501,SINGLE_FAMILY,1894,Forced air Gas,Central,,,4791,35,,138,1655,53,157,1239,3020
+"Young Rd, Evansdale, IA 50707",50707,Unimproved Land,,,,,,,,,3188,38250,2,55,,
+"315 River Ridge St, Dubuque, IA 52003",52003,SINGLE FAMILY - DETACHED,1960,Forced Air,Central Air,2,,10890,123,,616,7395,13,46,3020,1637
+"1304 Creekside Dr, Tiffin, IA 52340",52340,Single Family Residence,2019,Ceiling Electric Central Forced Air Natural Gas,Central Air Gas,2,,6098,146,,552,6630,0,104,,
+"1645 NW 91st St, Clive, IA 50325",50325,Single Family Residence,1993,Forced Air Gas Natural Gas,Central Air,2,,8712,115,,487,5840,46,13,1637,699
+"124 Washington St, Keokuk, IA 52632",52632,Single Family Residence,1964,Forced Air,Central Air,,,7405,44,,170,2037,61,155,,
+"2822 Avenue L, Fort Madison, IA 52627",52627,Single Family Residence,1928,Forced Air,Window Unit(s),1,,3484,37,,127,1527,60,143,699,1973
+"512 NE 15th St, Grimes, IA 50111",50111,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,,9147,290,,935,11217,46,43,,
+"1241 E 23rd St, Des Moines, IA 50317",50317,Single Family Residence,1956,Forced Air Gas Natural Gas,Central Air,,,6534,196,,340,4077,63,148,1973,4091
+"134 Aspen Dr, Norwalk, IA 50211",50211,,,,,,,,,,,,25,59,4091,750
+"1865 Creek Wood Dr, Dubuque, IA 52003",52003,SINGLE FAMILY - DETACHED,2017,Forced Air,Central Air,3,,23087,198,,1126,13515,1,46,750,1637
+"304 W Madison Ave, Fairfield, IA 52556",52556,Single Family Residence,1930,Forced Air,Central Air,1,,6098,103,,338,4054,69,72,,
+"2442 Prairie Rose Rdg, Muscatine, IA 52761",52761,LOT,,,,,,,,,89,1071,0,126,1637,1343
+"2137 Liberty Ave, Missouri Valley, IA 51555",51555,SINGLE_FAMILY,1900,Forced air Electric Gas,Central,,,250470,261,,584,7010,2,122,,
+"312 14th Ave, Gilbertville, IA 50634",50634,Single Family Residence,1900,Forced Air,Ceiling Fan(s),1,,10018,73,,227,2728,33,,,
+"1413 SE Delaware Ave APT 5, Ankeny, IA 50021",50021,,,,,,,,,,,,46,24,,
+"600 S G St, Indianola, IA 50125",50125,Single Family Residence,1890,Forced Air Gas Natural Gas,Central Air,4,,43560,116,,531,6375,25,76,1343,1946
+"1 1&2 S Ridge Rd, Merrill, IA 51038",51038,Residential,,,,,,,,,638,7650,0,,,
+"3673 Quarry Heights Ln NE, North Liberty, IA 52317",52317,Single Family Residence,1974,Natural Gas Baseboard Steam/Hotwtr,Ceiling Fan(s) Electric Wall/Window Unit(s),1,75,12197,155,,659,7905,4,14,1946,602
+"5672 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,602,4091
+"18 S 5th St, Eldridge, IA 52748",52748,,,,,,,,,,,,63,66,4091,602
+"3001 Oak St, Norwalk, IA 50211",50211,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,150,9583,326,,1044,12528,22,59,602,750
+"2438 SE 19th St, Des Moines, IA 50320",50320,Single Family Residence,1992,Forced Air Gas,,2,,5662,222,,404,4845,17,145,750,4091
+"8883 Hickory Hollow Ct, Dubuque, IA 52003",52003,SINGLE FAMILY - DETACHED,2004,Forced Air Other,Central Air,2,165,23522,107,,616,7395,0,46,4091,1637
+"610 Locust St, Muscatine, IA 52761",52761,SINGLE_FAMILY,1900,Other Gas,,1,,3484,54,,146,1757,53,126,1637,1343
+"236 Franklin Ave, Des Moines, IA 50314",50314,Multi Family,1969,Forced Air Gas,Central Air,,,,210,,382,4590,0,113,1343,4091
+"32567 335th St, Waukee, IA 50263",32567,,,,,,,,,,,,21,,4091,759
+"923 W Side Dr, Iowa City, IA 52246",52246,Single Family Residence,1992,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,2,,5662,138,,552,6630,0,13,759,1618
+"442 S Willard St, Ottumwa, IA 52501",52501,Single Family Residence,1967,Forced Air,Central Air,,,6534,48,,211,2537,34,36,1618,4120
+"0 Bella Vista Dr, Carroll, IA 51401",51401,Unimproved Land,,,,,,,,,712,8542,20,77,4120,1790
+"3774 University Ave, Des Moines, IA 50311",50311,SINGLE_FAMILY,1922,Baseboard Radiant Gas,Other,1,,4791,219,,487,5840,59,60,1790,4091
+"1619 Lucas St, Muscatine, IA 52761",52761,SINGLE_FAMILY,1920,Other Electric,,2,,6098,76,,175,2104,26,126,4091,1343
+"3792 Cedarwood Ct, Bettendorf, IA 52722",52722,Condominium Single Family Residence,1972,Natural Gas Forced Air,Central Air,,154,,120,,351,4208,47,4,1343,1282
+"1807 6th Ave, Council Bluffs, IA 51501",51501,SINGLE_FAMILY,1920,,,,,5227,61,,106,1275,77,120,1282,5845
+"1806 Summit St, Marshalltown, IA 50158",50158,Single Family Residence,1938,Forced Air,Central Air,1,,8276,54,,159,1912,19,79,5845,2496
+"1229 Foster Rd, Iowa City, IA 52245",52245,,,,,,,,,,,,21,27,2496,1618
+"606 3rd Ave E, Coggon, IA 52218",52218,Single Family Residence,1979,Gas,Central Air,2,,9147,59,,380,4564,13,,,
+"309 Short St, Maxwell, IA 50161",50161,Single Family Residence,1930,Forced Air Gas Natural Gas,Central Air,,,3049,80,,191,2292,39,,,
+"2330 W 58th St, Davenport, IA 52806",52806,Single Family Residence,1969,Natural Gas Forced Air,Central Air,,,5227,148,,319,3825,34,99,1618,3827
+"3708 SW Stonehaven Ln, Ankeny, IA 50023",50023,Townhouse,2016,Forced Air Gas Natural Gas,Central Air,2,55,4791,200,,638,7650,12,15,,
+"616 6th St, Wellman, IA 52356",52356,Single Family Residence,1945,Forced Air Natural Gas,Central Air Electric,1,,14810,106,,287,3442,51,,,
+"0 63rd Street Dr, Dysart, IA 52224",52224,Farm,,,,,,,,,,,0,,,
+"5668 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,3827,4091
+"2091 Golden Eagle Dr, Dubuque, IA 52001",52001,SINGLE FAMILY - DETACHED,2012,Forced Air,Central Air,2,,5227,188,,509,6107,0,72,4091,1637
+"5414 154th Ct, Urbandale, IA 50323",50323,,,,,,,,,,,,0,10,1637,1022
+"704 S 5th Ave E, Newton, IA 50208",50208,Single Family Residence,1994,Forced Air Gas Natural Gas,Central Air,2,,6534,154,,478,5735,56,127,,
+"5624 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,136,1632,7,148,1022,4091
+"2457 110th St, Stanley, IA 50671",50671,,,,,,,,,,,,0,,,
+"3319 4th Ave, Sioux City, IA 51106",51106,Single Family Residence Residential,1918,Forced Air,Central Air,2,,6098,166,,271,3251,48,65,4091,3890
+"4806 435th Ave, Preston, IA 52069",52069,Single Family Residence,2004,Propane Tank - Owned,Central Air,,,281398,189,,1031,12368,7,,,
+"1101 11th St, Sioux City, IA 51105",51105,Multi Family,1880,,,3,,,57,,319,3825,59,125,3890,3890
+"1021 S 12th St, Burlington, IA 52601",52601,Single Family Residence,1900,Forced Air,Central Air,1,,5662,52,,189,2270,60,153,,
+"784 Mission Point Rd, Iowa City, IA 52245",52245,Single Family Residence,2009,Forced Air Natural Gas,Ceiling Fan(s) Central Air,3,,15682,212,,1169,14025,17,27,3890,1618
+"2428 Evergreen Ave, State Center, IA 50247",50247,LOT,,,,,29,,,,117,1402,0,,,
+"1136 Briarcliff Ln, Clinton, IA 52732",52732,Single Family Residence,1963,Natural Gas Forced Air,,,,7013,88,,166,1986,41,101,1618,3647
+"2821 W Court Lot #13, Parnell, IA 52325",52325,,,,,,,,,,,,22,,,
+"400 W Sunset Rd, Jefferson, IA 50129",50129,Single Family Residence,1949,Forced Air,Central Air,1,,25265,63,,285,3417,12,151,,
+"1009 Division St, Boone, IA 50036",50036,Single Family Residence,1880,Forced Air Gas Natural Gas,,,,10890,156,,361,4332,32,123,3647,1133
+"216 S 4th St, Winterset, IA 50273",50273,Single Family Residence,1981,Forced Air Gas Natural Gas,Window Unit(s),3,,6969,205,,372,4462,74,117,,
+"1664 S 49th St, West Des Moines, IA 50265",50265,Single Family Residence,2001,Forced Air Gas Natural Gas,Central Air,4,,31799,228,,1700,20400,0,34,,
+"1014 3rd St, Princeton, IA 52768",52768,Single Family Residence,1973,Electric Natural Gas Baseboard,Central Air,,,17860,144,,605,7265,15,118,,
+"2469 1st St SW, Cedar Rapids, IA 52404",52404,Single Family Residence,1963,Forced Air Hot Water,Central Air,2,,6969,96,,340,4080,0,106,1133,3336
+"1753 W 55th St, Davenport, IA 52806",52806,Single Family Residence,1971,Natural Gas Forced Air,Central Air,,,6969,132,,340,4080,54,99,3336,3827
+"10224 Powell Ave, Johnston, IA 50131",10224,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,150,8276,277,,842,10109,6,,3827,1198
+"1713 SW Westview Dr, Ankeny, IA 50023",50023,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,2,150,9583,206,,765,9180,50,15,,
+"1006 3rd St, Jewell, IA 50130",50130,SINGLE_FAMILY,2001,Forced air Gas,Other,2,,13068,118,,563,6758,18,,,
+"1124 Tennyson Ave, Stratford, IA 50249",50249,Single Family Residence,1910,Forced Air,Central Air,2,,14810,68,,253,3034,31,,,
+"810 4th St, Harlan, IA 51537",51537,Single Family Residence,1946,Forced Air,Central Air,,,4791,47,,149,1782,44,54,,
+"2305 Exchange St, Keokuk, IA 52632",52632,Single Family Residence,2002,Forced Air,Central Air,,,13939,67,,382,4590,52,155,,
+"1615 W 30th St, Sioux City, IA 51103",51103,Single Family Residence Residential,1920,Forced Air,Central Air,,,6250,94,,212,2547,40,150,1198,3890
+"308 Franklin Ave, Mechanicsville, IA 52306",52306,Single Family Residence,1998,Forced Air Gas,Central Air,2,,58370,96,,457,5482,0,,,
+"1602 N Pennsylvania Ave, Mason City, IA 50401",50401,SINGLE_FAMILY,1952,Forced air,,2,,5401,70,,201,2410,28,149,3890,2925
+"622 N 21st St, Fort Dodge, IA 50501",50501,SINGLE_FAMILY,1951,Forced air Gas,Central,1,,5662,135,,319,3822,48,157,2925,3020
+"2875 Serenity Dr, Waukee, IA 50263",50263,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,,11326,306,,1009,12113,1,8,3020,759
+"809 Wood St, Webster City, IA 50595",50595,Single Family Residence,1963,Forced Air,Central Air,2,,6534,89,,233,2792,46,82,759,1093
+"6948 Crossing Ct, Bettendorf, IA 52722",52722,Single Family Residence,2020,Natural Gas Forced Air,,,,10890,246,,977,11729,0,4,1093,1282
+"1000 McIntosh Dr NE, Bondurant, IA 50035",50035,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,100,13068,250,,793,9520,42,64,,
+"2761 Teresa Dr SW, Cedar Rapids, IA 52404",52404,Single Family Residence,1961,Forced Air Gas,Central Air,2,,9583,72,,266,3188,28,106,1282,3336
+"4005 Aldrin Ave, Ames, IA 50014",50014,TOWNHOUSE,2021,,,2,17,5751,247,,781,9371,6,52,3336,1716
+"1806 Monroe St, Emmetsburg, IA 50536",50536,Single Family Residence,1930,Gas Natural Gas,Central Air,1,,17424,113,,202,2422,44,103,,
+"23445 Opal Ave, Bloomfield, IA 52537",23445,Single Family Residence,1920,Forced Air,Central Air Window Unit(s),2,,108029,70,,297,3567,0,,,
+"4108 Jackson Cir NW, Cedar Rapids, IA 52405",52405,Single Family Residence,1996,Forced Air Gas,Central Air,2,,8276,185,,425,5100,9,105,1716,3336
+"206 S Eliza St, Maquoketa, IA 52060",52060,SINGLE FAMILY - DETACHED,1880,Forced Air,Central Air,1,,12632,33,,147,1760,58,131,3336,2311
+"3606 SW 38th St, Des Moines, IA 50321",50321,Single Family Residence,1990,Gas Natural Gas,Central Air,2,,26572,168,,834,10009,7,67,2311,4091
+"142 Aspen Dr, Norwalk, IA 50211",50211,,,,,,,,,,,,25,59,4091,750
+"751 Grant St, Iowa City, IA 52240",52240,Single Family Residence,1920,Electric Natural Gas Zoned,Electric Ceiling Fan(s) Central Air,1,,6098,161,,584,7012,34,40,750,1618
+"311 4th Ave, Grinnell, IA 50112",50112,Single Family Residence,1900,Hot Water,Central Air,2,,12197,71,,367,4399,66,63,1618,1789
+"1701 S Park Ave, Oskaloosa, IA 52577",52577,Single Family Residence,1941,Forced Air,Central Air,3,,86684,92,,975,11704,15,139,1789,1787
+"941 27th St, Spirit Lake, IA 51360",51360,Single Family Residence,1978,Forced Air,Central Air,2,,10018,158,,635,7624,40,86,1787,1413
+"812 Lake Rd, Ottumwa, IA 52501",52501,Single Family Residence,1920,Forced Air,Central Air,1,,522720,201,,478,5738,4,36,1413,4120
+"4406 Ross Rd, Ames, IA 50014",50014,Single Family Residence,1966,Forced Air Gas Natural Gas,,1,,8276,240,,465,5584,0,52,4120,1716
+"619 19th Ave N, Clinton, IA 52732",52732,Single Family Residence,1889,Natural Gas Forced Air,Central Air,,,21344,75,,287,3442,0,101,1716,3647
+"2661 Washington St, Davenport, IA 52804",52804,Single Family Residence,1954,Natural Gas Forced Air,Window Unit(s),,,7590,112,,255,3060,42,137,3647,3827
+"1819 21st St, Des Moines, IA 50310",50310,Single Family Residence,1910,Forced Air Gas,None,,,4356,118,,201,2410,51,38,3827,4091
+"4832 Eagle Ct, Davenport, IA 52807",52807,Single Family Residence,2005,Natural Gas Forced Air,Central Air,,,11761,128,,988,11858,40,41,4091,3827
+"1005 Grant St S LOT 7, Bondurant, IA 50035",50035,,,,,,,,,,,,0,64,,
+"1903 Breese Ave, Muscatine, IA 52761",52761,SINGLE_FAMILY,1984,Other Gas,,2,,139,59,,144,1734,54,126,3827,1343
+"2906 SW Reunion Dr, Ankeny, IA 50023",50023,Single Family Residence,2006,Forced Air Gas,Central Air,2,,6098,174,,531,6375,29,15,,
+"10969 150th St, Maquoketa, IA 52060",10969,SINGLE FAMILY - DETACHED,1890,Forced Air Other,Central Air,3,,31363,187,,552,6630,0,,1343,2311
+"1243 2nd Ave S, Clinton, IA 52732",52732,Single Family Residence,1949,Natural Gas Forced Air,Central Air,,,7797,67,,196,2346,21,101,2311,3647
+"930 230th St, Tipton, IA 52772",52772,Single Family Residence,1987,Central Forced Air Natural Gas Propane,Central Air Electric,3,,1078981,203,,1222,14662,0,136,,
+"2485 Rookwood Ln, Marion, IA 52302",52302,Condominium,2021,Forced Air Gas,Central Air,3,,,157,,542,6500,3,33,3647,1278
+"287 Ray Dr NW, Cedar Rapids, IA 52405",52405,Single Family Residence,1956,Forced Air Gas,Central Air,1,,10454,139,,359,4310,43,105,1278,3336
+"1231 Nicholas Ln, North Liberty, IA 52317",52317,,,,,,,,,,,,17,14,3336,602
+"1465 Lawrence Ave, Camanche, IA 52730",52730,Single Family Residence,2011,Forced Air,Central Air,,,9583,213,,595,7137,20,152,,
+"3001 Vine St, West Des Moines, IA 50265",50265,Single Family Residence,1961,Electric Forced Air,Central Air,2,,9583,199,,528,6337,0,34,,
+"7331 NW 21st St, Ankeny, IA 50023",50023,Single Family Residence,1968,Forced Air Gas Natural Gas,Central Air,1,,20038,200,,564,6770,17,15,,
+"120 Broad St S, Grinnell, IA 50112",50112,Single Family Residence,2003,Forced Air,Central Air,2,,120226,122,,797,9560,40,63,602,1789
+"314 N Ohio Ave, Oxford, IA 52322",52322,,,,,,,,,,,,28,77,,
+"24374 County Road L34, Underwood, IA 51576",24374,SINGLE_FAMILY,1996,Electric,,,,,150,,1594,19125,0,,,
+"2225 S Florence Ave, Sioux City, IA 51109",51109,Single Family Residence Residential,2021,Forced Air,Central Air,2,,4356,110,,468,5610,13,141,1789,3890
+"1476 Primrose Dr SE, Altoona, IA 50009",50009,,,,,,,,,,,,3,75,,
+"3179 223rd Ave, Montrose, IA 52639",52639,Single Family Residence,2011,Geothermal,Geothermal,3,,304920,73,,742,8900,0,111,,
+"5664 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,3890,4091
+"120 SW 5th St UNIT 207, Des Moines, IA 50309",50309,Townhouse,1913,Hot Water Radiant See Remarks,Central Air,,425,,240,,425,5100,88,32,4091,4091
+"2629 SE 8th St, Des Moines, IA 50315",50315,Single Family Residence,2010,,Central Air,,,6534,186,,436,5228,0,21,4091,4091
+"7 Imperial Ct, Davenport, IA 52807",52807,Single Family Residence,1969,Natural Gas Forced Air,Central Air,,,8652,146,,531,6375,41,41,4091,3827
+"1106 N Elm St, Creston, IA 50801",50801,Single Family Residence,1920,Forced Air,Window Unit(s),1,,6534,59,,170,2040,27,131,3827,2107
+"4502 N Linwood Ave, Davenport, IA 52806",52806,Single Family Residence,1977,Natural Gas Forced Air,Central Air,,,7840,94,,425,5100,29,99,2107,3827
+"1007 Chestnut St, Atlantic, IA 50022",50022,Single Family Residence,1890,Forced Air,Central Air,,,6969,35,,166,1989,64,115,3827,2794
+"3118 212th Ave, Montrose, IA 52639",52639,Single Family Residence,2014,Heat Pump,Central Air,4,,261360,215,,797,9562,0,111,,
+"237 Windsor Dr NE, Cedar Rapids, IA 52402",52402,Single Family Residence,1967,Gas,Central Air,2,,,132,,420,5036,28,37,2794,3336
+"615 Chestnut St, La Porte City, IA 50651",50651,Single Family Residence,1910,Forced Air,Central Air,2,,5227,77,,154,1849,50,,,
+"15296 Hawthorn Ct, Clive, IA 50325",15296,SINGLE_FAMILY,1996,Forced air Gas,Central,2,,12632,174,,690,8285,48,,3336,699
+"4102 Anna St, Iowa City, IA 52245",52245,Single Family Residence,2022,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,3,,,173,,977,11727,13,27,699,1618
+"21 Avenue, Charles City, IA 50616",50616,Agriculture,,,,,,,,,0,0,0,153,1618,968
+"634 Oakland Dr, Council Bluffs, IA 51503",51503,Single Family Residence,1920,Forced Air Natural Gas,Central Air,1,,6118,84,,302,3621,43,101,968,5845
+"403 E 17th St, Des Moines, IA 50316",50316,Single Family Residence,1888,,,,,2178,144,,297,3567,70,127,5845,4091
+"1431 NW 78th St, Clive, IA 50325",50325,Single Family Residence,1959,Forced Air Gas Natural Gas,Central Air,3,,31363,199,,552,6630,39,13,4091,699
+"14623 Summit Dr, Clive, IA 50325",14623,Single Family Residence,1993,Forced Air Gas Natural Gas,Central Air,2,40,9147,144,,584,7012,23,233,699,699
+"7141 SE Vandalia Dr, Pleasant Hill, IA 50327",50327,Single Family Residence,2013,Forced Air Gas Natural Gas,Central Air,2,,55757,275,,850,10197,1,76,,
+"1803 Trophy Run Ln, Harpers Ferry, IA 52146",52146,Single Family Residence,2005,Floor Furnace,Window Unit(s),,450,282269,131,,335,4016,0,,,
+"934 934 936B N Boston Way, Coralville, IA 52241",52241,Multi Family,1989,Natural Gas Forced Air,Electric Central Air,,,,214,,1530,18360,0,11,699,3127
+"2511 New Lexington Dr, Bettendorf, IA 52722",52722,Single Family Residence,1974,Natural Gas Forced Air,Central Air,,,9350,150,,478,5738,28,4,3127,1282
+"3477 Montgomery Cir, Marion, IA 52302",52302,Single Family Residence,2017,Forced Air,Central Air,3,,11761,138,,722,8670,0,33,1282,1278
+"135 5th St N, Winthrop, IA 50682",50682,Single Family Residence,1966,Forced Air,Central Air,1,,6446,64,,287,3440,40,,,
+"515 NW Country Club Ln, Ankeny, IA 50023",50023,Townhouse,2007,Forced Air Gas Natural Gas,Central Air,3,215,3484,221,,841,10095,12,15,,
+"135 SE Baytree Dr, Waukee, IA 50263",50263,Single Family Residence,2009,Forced Air Gas Natural Gas,Central Air,2,,9147,188,,584,7010,9,8,1278,759
+"4312 Woodland Ave, West Des Moines, IA 50266",50266,Townhouse,1981,Forced Air Gas Natural Gas,Central Air,2,200,3049,203,,457,5482,30,12,,
+"1727 Hilton Rd, Keokuk, IA 52632",52632,Single Family Residence,2007,Geothermal,Central Air,3,,94090,69,,563,6758,4,155,,
+"508 W Main St, Agency, IA 52530",52530,Single Family Residence,2021,Forced Air,Central Air,,,8712,134,,313,3761,14,,,
+"0 Kalmia Ln, Fairfield, IA 52556",52556,Unimproved Land,,,,,,,,,74,892,70,72,,
+"111 Rockvalley Dr SW, Cedar Rapids, IA 52404",52404,Single Family Residence,1992,Forced Air Gas,Central Air,2,,13504,107,,638,7650,0,106,759,3336
+"115 Maple St, Lawton, IA 51030",51030,,,,,,,,,,,,21,,,
+"3344 W Columbia Ave, Davenport, IA 52804",52804,Single Family Residence,1972,Natural Gas Forced Air,Central Air,,,6534,118,,372,4460,26,137,3336,3827
+"1 Shellrock Dr, Northwood, IA 50459",50459,,,,,,,,,,,,53,,,
+"1260 Stewart St, Des Moines, IA 50316",50316,Single Family Residence,1913,Forced Air Gas Natural Gas,Central Air,,,5227,178,,372,4462,44,127,3827,4091
+"1 63rd Street Dr, Dysart, IA 52224",52224,Farm,,,,,,,,,,,0,,,
+"8347 Gretel Ct, Peosta, IA 52068",52068,SINGLE FAMILY - DETACHED,2019,Forced Air,Central Air,3,,26136,180,,1137,13640,8,47,,
+"2517 Sherwood Dr, Des Moines, IA 50310",50310,Single Family Residence,1959,Forced Air Gas Natural Gas,Central Air,2,,9147,197,,457,5482,13,38,4091,4091
+"2196 230th St, Oskaloosa, IA 52577",52577,Single Family Residence,1974,Other,Central Air,2,,56628,79,,372,4460,7,139,4091,1787
+"2000 NW Kelsey Lynn Cir, Grimes, IA 50111",50111,Single Family Residence,2006,Electric Geothermal,Geothermal,4,,20473,231,,1307,15682,46,43,,
+"608 Rolling Hills Dr, Tiffin, IA 52340",52340,,,,,,,,,,,,7,104,,
+"1106 Byron St, Stratford, IA 50249",50249,Single Family Residence,1915,Forced Air,Central Air,1,,9147,37,,159,1912,29,,,
+"3415 Concordia Dr, Sioux City, IA 51104",51104,Single Family Residence Residential,1953,Forced Air,Central Air,1,,6534,135,,298,3570,23,64,1787,3890
+"3355 Shiloh Rd, Stratford, IA 50249",50249,Single Family Residence,1978,Forced Air,Central Air,2,,200812,143,,712,8542,0,,,
+"3110 Jay Ave, Sioux City, IA 51106",51106,Single Family Residence Residential,1930,Forced Air,Central Air,1,,3484,138,,197,2359,58,65,3890,3890
+"4113 Woodside Ct NE, Solon, IA 52333",52333,Single Family Residence,1982,Forced Air Natural Gas,Central Air,,83,108900,205,,1594,19122,0,,,
+"715 Maben Ave, Garner, IA 50438",50438,Single Family Residence,1890,Hot Water,Window Unit(s),1,,8712,87,,367,4399,43,72,,
+"2412 SE 17th St, Des Moines, IA 50320",50320,Condominium,1979,Forced Air Gas Natural Gas,Central Air,,,,154,,244,2932,26,145,3890,4091
+"3007 Oak St, Norwalk, IA 50211",50211,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,150,9583,321,,1037,12450,22,59,4091,750
+"765 Brook Ridge Ave, North Liberty, IA 52317",52317,Single Family Residence,2022,Natural Gas Central Forced Air,Electric Central Air,2,115,,163,,595,7137,5,14,750,602
+"916 Kirkwood Ave, Des Moines, IA 50315",50315,Single Family Residence,1921,Forced Air Gas Natural Gas,Central Air,1,,6969,181,,276,3315,48,21,602,4091
+"520 N 6th St, Carlisle, IA 50047",50047,Single Family Residence,1967,Forced Air Gas Natural Gas,Central Air,2,,10454,198,,425,5097,36,98,,
+"136 S 7th St, Council Bluffs, IA 51501",51501,SINGLE_FAMILY,1883,Forced air Gas,Central,,,,38,,351,4208,81,120,4091,5845
+"1119 South St, Burlington, IA 52601",52601,Single Family Residence,1926,Forced Air,Central Air,2,,6534,51,,180,2165,61,153,,
+"3006 SE Glenstone Dr, Grimes, IA 50111",50111,Townhouse,2015,Forced Air Gas Natural Gas,Central Air,2,180,1306,131,,457,5482,10,43,,
+"406 Vine St, Woodburn, IA 50151",50151,Single Family Residence,1900,Forced Air,Central Air,3,,28750,45,,162,1938,7,,,
+"1900 50th St APT 14, Des Moines, IA 50310",50310,Townhouse,1971,,,1,245,,102,,185,2218,53,38,5845,4091
+"33 Congress Ave, Sioux City, IA 51104",51104,Single Family Residence Residential,1934,Forced Air Fireplace(s),Central Air,1,,6534,44,,170,2039,51,64,4091,3890
+"360 S Huston Dr, West Des Moines, IA 50266",50266,Single Family Residence,2011,Forced Air Gas Natural Gas,Central Air,3,360,11326,266,,1031,12368,8,12,,
+"633 N 7th St, Centerville, IA 52544",52544,Single Family Residence,1914,Baseboard,None,1,,14810,20,,47,561,46,,3890,2363
+"10009 Powell Ave, Johnston, IA 50131",10009,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,150,10454,209,,800,9598,6,256,2363,1198
+"5652 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,138,1658,7,148,1198,4091
+"6150 Thor Ave, Davenport, IA 52807",52807,Single Family Residence,2021,Natural Gas Forced Air,Central Air,,,13939,185,,1147,13767,4,41,4091,3827
+"5303 Glen Oaks Way, West Des Moines, IA 50266",50266,TOWNHOUSE,2004,Forced air Gas,Central,2,390,2874,297,,1009,12112,0,12,,
+"1726 468th Ave, Clinton, IA 52732",52732,Single Family Residence,1946,Propane,Central Air,,,8276,55,,128,1530,3,101,3827,3647
+"River Woods Plat St #1 LOT 23, Booneville, IA 50038",50038,,,,,,,,,,,,0,,,
+"501 5th St, Rippey, IA 50235",50235,Single Family Residence,1899,Gas Natural Gas,Window Unit(s),2,,,41,,117,1402,11,,,
+"4550 Louie Ln, Central City, IA 52214",52214,Farm,,,,,,,,,1628,19532,4,,,
+"2635 S Cleveland St, Sioux City, IA 51106",51106,Single Family Residence Residential,2001,Forced Air,Central Air,2,,5662,107,,550,6604,29,65,3647,3890
+"506 C Ave, Armstrong, IA 50514",50514,Single Family Residence,1955,Forced Air,Central Air,1,,6969,65,,127,1527,16,,,
+"1506 13th Ave SW, Cedar Rapids, IA 52404",52404,Single Family Residence,1954,Forced Air Gas,Central Air,1,,5227,155,,253,3034,39,106,3890,3336
+"1145 McKimber St, Knoxville, IA 50138",50138,Unimproved Land,,,,,,,,,81,969,4,138,,
+"107 Prairie St, Raymond, IA 50667",50667,Single Family Residence,1995,Forced Air Natural Gas,Ceiling Fan(s) Central Air,3,,14810,103,,457,5482,0,,,
+"600 Oakland Ave, Council Bluffs, IA 51503",51503,SINGLE_FAMILY,1892,Forced air Gas,Central,,,16988,87,,744,8925,57,101,3336,5845
+"10 E Lally St, Des Moines, IA 50315",50315,Single Family Residence,1900,Forced Air Gas Natural Gas,Central Air,3,,19166,169,,361,4332,55,21,5845,4091
+"2101 Meadow Ct APT 902, Des Moines, IA 50320",50320,Townhouse,2004,Forced Air Gas Natural Gas,Central Air,2,160,,113,,329,3950,4,145,4091,4091
+"206 N Locust St, Marcus, IA 51035",51035,Single Family Residence Residential,1889,Forced Air,Central Air,2,,5227,54,,181,2168,48,,,
+"1800 Hughes Dr SW, Cedar Rapids, IA 52404",52404,Single Family Residence,2003,Forced Air Natural Gas,Central Air,3,,12632,134,,890,10684,18,106,4091,3336
+"906 3rd St, Webster City, IA 50595",50595,Single Family Residence,1910,Forced Air,Central Air,,,6534,48,,149,1782,75,82,3336,1093
+"1607 21st Avenue Pl, Coralville, IA 52241",52241,,,,,,,,,,,,55,11,1093,3127
+"2813 43rd St, Des Moines, IA 50310",50310,Single Family Residence,1929,Forced Air Gas Natural Gas,Central Air,2,,6969,180,,584,7012,59,38,3127,4091
+"209 N Lincoln St, New Sharon, IA 50207",50207,Single Family Residence,1910,Forced Air,Central Air,1,,21780,20,,85,1017,31,,,
+"16 Benton Ave E, Albia, IA 52531",52531,Unimproved Land,,,,,,,,,82,982,69,124,,
+"14 Red Maple Ct, Central City, IA 52214",52214,,,,,,,,,,,,0,,,
+"220 N East St, Osceola, IA 50213",50213,Single Family Residence,1970,Forced Air Gas Natural Gas,Central Air,2,,16553,85,,457,5480,16,142,4091,2393
+"506 Bezdek Dr NW, Cedar Rapids, IA 52405",52405,Single Family Residence,1991,Forced Air Gas,Central Air,2,,11761,156,,531,6372,26,105,2393,3336
+"3920 76th St, Urbandale, IA 50322",50322,Single Family Residence,1968,Forced Air Gas Natural Gas,Central Air,2,,11761,143,,569,6831,62,34,3336,1022
+"3012 S 14th St, Marshalltown, IA 50158",50158,Single Family Residence,1993,Forced Air,Central Air,2,,6534,79,,329,3950,0,79,1022,2496
+"600 South Ave, Shenandoah, IA 51601",51601,Single Family Residence,1900,Fireplace(s) Forced Air,Central Air,1,,6969,35,,169,2027,41,156,,
+"2412 Stanton Ave, Des Moines, IA 50321",50321,Single Family Residence,1954,Forced Air Gas Natural Gas,Central Air,2,,30492,311,,797,9562,50,67,2496,4091
+"110 Circle Dr, Minden, IA 51553",51553,,,,,,,,,,,,0,,,
+"705 E Main St, Montezuma, IA 50171",50171,Single Family Residence,1900,Forced Air,Central Air,2,,10018,77,,382,4587,52,,,
+"5656 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,4091,4091
+"103 N Elm St, Marcus, IA 51035",51035,Single Family Residence Residential,1903,Forced Air,Central Air,2,,8276,98,,312,3748,42,,,
+"2806 Glen Oaks Dr, Cedar Falls, IA 50613",50613,Single Family Residence,2003,Forced Air Natural Gas,Ceiling Fan(s) Central Air,3,33,16117,142,,1190,14277,22,40,,
+"22941 193rd Ave, Manchester, IA 52057",22941,Single Family Residence,1978,Forced Air Natural Gas,Window Unit(s),2,,26572,99,,397,4768,0,,,
+"608 1st St NW, Bondurant, IA 50035",50035,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,2,100,4356,194,,620,7441,9,64,,
+"5529 Prairie Pkwy, Johnston, IA 50131",50131,Townhouse,2015,Forced Air Gas Natural Gas,Central Air,3,180,3484,237,,839,10072,12,12,4091,1198
+"3207 Eastern Ave NE, Cedar Rapids, IA 52402",52402,Single Family Residence,1955,Forced Air Gas,Central Air,2,,6534,133,,338,4054,44,37,1198,3336
+"7062 Crossing Ct, Bettendorf, IA 52722",52722,Single Family Residence,2020,Natural Gas Forced Air,,,,11761,251,,997,11969,0,4,3336,1282
+"5684 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,1282,4091
+"201 Sycamore St, Tipton, IA 52772",52772,Single Family Residence,1900,Forced Air Gas,Central Air,2,,,77,,372,4462,0,136,,
+"23 Benton Ave E, Albia, IA 52531",52531,Unimproved Land,,,,,,,,,65,778,67,124,,
+"616 S Boone St, Boone, IA 50036",50036,Single Family Residence,1955,Forced Air Gas Natural Gas,Central Air,2,,17860,127,,552,6630,34,123,4091,1133
+"208 E 3rd St, Halbur, IA 51444",51444,Single Family Residence,1979,Forced Air,Central Air,2,,13939,54,,267,3200,9,,,
+"10 Benton Ave E, Albia, IA 52531",52531,Unimproved Land,,,,,,,,,69,829,69,124,,
+"19915 Mayfield Cir, Pacific Jct, IA 51561",19915,,,,,,,,,,,,1,,,
+"246 Woodlawn Ct, Clinton, IA 52732",52732,Single Family Residence,1957,Natural Gas Forced Air Other Heating/Cooling,Central Air Other Heating/Cooling,,,26572,79,,616,7392,32,101,1133,3647
+"130 E 29th Ct, Des Moines, IA 50317",50317,Single Family Residence,1949,Forced Air Gas Natural Gas,,,,6098,71,,178,2142,36,148,3647,4091
+"218 South St, Waterloo, IA 50701",50701,,,,,,,,,,,,70,116,4091,2484
+"300 5th St NW, Altoona, IA 50009",50009,Single Family Residence,1997,Forced Air Gas Natural Gas,,2,,8712,152,,573,6872,28,75,,
+"432 Main St, Bennett, IA 52721",52721,Single Family Residence,1913,Forced Air Natural Gas,Ceiling Fan(s) Central Air Gas,3,,12197,83,,266,3188,15,,,
+"118 S Elm St, Ottumwa, IA 52501",52501,Single Family Residence,1910,Forced Air,Central Air,2,,6534,38,,170,2037,38,36,2484,4120
+"2210 Scott St, Davenport, IA 52803",52803,Single Family Residence,1916,Natural Gas Forced Air,Central Air,,,6000,87,,298,3570,54,46,4120,3827
+"210 E Cheshire St, Birmingham, IA 52535",52535,Single Family Residence,1925,Forced Air,Central Air,1,,16117,56,,209,2512,7,,,
+"2904 Neola St, Cedar Falls, IA 50613",50613,Single Family Residence,1951,Forced Air Natural Gas,Central Air,2,,9583,125,,574,6882,47,40,,
+"10217 Powell Ave, Johnston, IA 50131",10217,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,2,150,7405,210,,740,8879,6,,3827,1198
+"767 NE Conner Ct, Waukee, IA 50263",50263,Townhouse,2018,Forced Air Gas Natural Gas,Central Air,2,130,1306,159,,467,5607,20,8,1198,759
+"921 E Washington St, Winterset, IA 50273",50273,Single Family Residence,1979,Forced Air Gas,Central Air,,,8712,142,,468,5610,41,117,,
+"6685 Panorama Dr, Panora, IA 50216",50216,Single Family Residence,1999,Forced Air Gas Natural Gas,Central Air,2,100,17424,188,,529,6350,2,,,
+"11163 Westport Dr, West Des Moines, IA 50266",11163,Unimproved Land,,,,,,,,,204,2445,0,,,
+"206 Augusta Dr, Treynor, IA 51575",51575,SINGLE_FAMILY,2021,Forced air Gas,Central,,,,245,,805,9664,7,,,
+"113 Boston Ave SE, Orange City, IA 51041",51041,Single Family Residence Residential,1900,Forced Air,Central Air,1,,9147,138,,397,4768,75,20,,
+"1511 S Virginia Ave, Mason City, IA 50401",50401,SINGLE_FAMILY,1955,Forced air,,2,,8184,131,,351,4208,17,149,759,2925
+"2463 Glen Ellen Rd, Sioux City, IA 51106",51106,Townhouse Residential,2020,Forced Air,Central Air,2,58,6969,218,,627,7522,0,65,2925,3890
+"1327 S 25th St, Fort Dodge, IA 50501",50501,,,,,,,,,,,,34,157,3890,3020
+"308 W Ohio St, Lenox, IA 50851",50851,SINGLE_FAMILY,1920,Forced air Gas,Central,3,,10018,53,,340,4077,33,,,
+"535 N Park Ave, Centerville, IA 52544",52544,Single Family Residence,1914,Forced Air,Central Air,,,4356,36,,57,688,67,,3020,2363
+"22 E 3rd St, Earlville, IA 52041",52041,SINGLE FAMILY - DETACHED,1919,Forced Air,Central Air,1,,21780,96,,348,4182,24,79,,
+"3237 4th Ave, Council Bluffs, IA 51501",51501,Single Family Residence,1956,Forced Air Electric Natural Gas,Central Air,1,,4791,69,,234,2805,51,120,2363,5845
+"1108 NW Boulder Brook Dr, Ankeny, IA 50023",50023,Single Family Residence,2003,Forced Air Gas Natural Gas,Central Air,3,,14375,235,,722,8667,16,15,,
+"1132 21st Ave SW, Cedar Rapids, IA 52404",52404,Single Family Residence,1912,Forced Air Gas,Central Air,,,5662,141,,227,2727,35,106,5845,3336
+"2521 S Cecelia St, Sioux City, IA 51106",51106,Single Family Residence Residential,1959,Forced Air,Central Air,,,6534,126,,359,4310,36,65,3336,3890
+"2610 Big Woods Rd, Cedar Falls, IA 50613",50613,Single Family Residence,1948,Forced Air Natural Gas Propane Leased,Ceiling Fan(s) Central Air,3,,18295,105,,361,4334,6,40,,
+"2501 Iowa St, Columbus City, IA 52737",52737,Single Family Residence,1977,Forced Air Natural Gas,Ceiling Fan(s) Central Air Gas,2,,14810,93,,287,3442,0,,,
+"1813 NW 8th St, Grimes, IA 50111",50111,Single Family Residence,2020,Forced Air Gas Natural Gas,Central Air,3,,14810,269,,677,8122,1,43,,
+"180 Aspen Dr, Norwalk, IA 50211",50211,,,,,,,,,,,,14,59,3890,750
+"11 Benton Ave E, Albia, IA 52531",52531,Unimproved Land,,,,,,,,,73,880,69,124,,
+"3420 S Coral St, Sioux City, IA 51106",51106,Single Family Residence Residential,1977,Forced Air,Central Air,2,,10454,134,,489,5865,38,65,750,3890
+"2121 Avenue I, Fort Madison, IA 52627",52627,Single Family Residence,1900,Forced Air,None,,,6969,18,,58,701,61,143,3890,1973
+"4410 Phoenix St, Ames, IA 50014",50014,Single Family Residence,1970,Forced Air Gas Natural Gas,Central Air,1,,10018,238,,457,5482,0,52,1973,1716
+"257 Camden Rd, Iowa City, IA 52245",52245,,,,,,,,,,,,16,27,1716,1618
+"22615 Starview Dr, Dubuque, IA 52001",22615,SINGLE FAMILY - DETACHED,2004,Forced Air,Central Air,3,125,39640,128,,669,8032,0,,1618,1637
+"119 SW Stonegate Dr, Ankeny, IA 50023",50023,Single Family Residence,2007,Forced Air Gas Natural Gas,Central Air,3,,11326,186,,1116,13388,6,15,,
+"1 Newburg Rd, Grinnell, IA 50112",50112,Farm,,,,,,,,,,,0,63,1637,1789
+"1016 W 15th St S, Newton, IA 50208",50208,Single Family Residence,2001,Forced Air Gas Natural Gas,Central Air,2,,11326,177,,691,8288,28,127,,
+"657 Pine Ave, Norwalk, IA 50211",50211,,,,,,,,,,,,22,59,1789,750
+"1306 Green St, Oskaloosa, IA 52577",52577,Single Family Residence,1979,Forced Air,Central Air,2,,10890,115,,211,2537,29,139,750,1787
+"5205 Warren St, Davenport, IA 52806",52806,Single Family Residence,1968,Natural Gas Forced Air,Central Air,,,8276,99,,372,4460,44,99,1787,3827
+"5680 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,134,1606,7,148,3827,4091
+"0 Newburg Rd, Grinnell, IA 50112",50112,Farm,,,,,,,,,,,82,63,4091,1789
+"1109 6th Ave N, Humboldt, IA 50548",50548,Single Family Residence,1940,Forced Air,Central Air Window Unit(s),1,,13504,44,,116,1390,53,80,,
+"2307 Marti Dr, Milford, IA 51351",51351,Single Family Residence,2004,Forced Air,Central Air,2,150,12632,155,,903,10835,0,106,,
+"1011 W 9th St, Cedar Falls, IA 50613",50613,Single Family Residence,1949,Forced Air,Central Air,2,,6098,89,,457,5480,52,40,,
+"929 S 12th Ave W, Newton, IA 50208",50208,Single Family Residence,1948,Forced Air,Central Air,2,,13504,70,,425,5097,23,127,,
+"3421 Amherst St, Des Moines, IA 50313",50313,Single Family Residence,1912,Forced Air Gas Natural Gas,Central Air,2,,6534,167,,425,5100,72,154,1789,4091
+"180 Crestview Dr, Burlington, IA 52601",52601,Single Family Residence,1968,Forced Air,Central Air,2,,6969,134,,297,3567,20,153,,
+"5679 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,138,1658,7,148,4091,4091
+"4500 Carpenter Ave, Des Moines, IA 50311",50311,Single Family Residence,1917,Forced Air Gas Natural Gas,Central Air,1,,5662,144,,489,5862,55,60,4091,4091
+"2311 Walton Rd, Fairfield, IA 52556",52556,Unimproved Land,,,,,41,,,,105,1262,4,72,,
+"0 190th St, Dike, IA 50624",50624,Farm,,,,,,,,,,,0,,,
+"522 E Elm St, Algona, IA 50511",50511,Single Family Residence,1947,Forced Air,Central Air,1,,5662,90,,255,3060,58,137,4091,554
+"810 College Ave, Iowa Falls, IA 50126",50126,Single Family Residence,1898,Forced Air Gas Natural Gas,Central Air,1,,,74,,266,3188,68,133,554,1658
+"6636 30th Avenue Dr, Shellsburg, IA 52332",52332,Single Family Residence,2019,Forced Air Gas,Central Air,,,827640,125,,1689,20272,3,,,
+"200 NW 11th St, Grimes, IA 50111",50111,Single Family Residence,2002,Forced Air Gas Natural Gas,Central Air,3,,10890,215,,807,9687,23,43,,
+"1406 NE Falstaff Ln, Ankeny, IA 50021",50021,Townhouse,2019,Electric Forced Air,Central Air,2,165,2613,203,,574,6885,5,24,,
+"1001 N Market St, Oskaloosa, IA 52577",52577,Single Family Residence,1910,Forced Air,Central Air,2,,17860,43,,319,3822,49,139,1658,1787
+"502 Pine Ave, Norwalk, IA 50211",50211,,,,,,,,,,,,24,59,1787,750
+"W Spring St, Mc Gregor, IA 52157",52157,Unimproved Land,,,,,,,,,60,714,24,,,
+"1436 46th St, Des Moines, IA 50311",50311,Single Family Residence,1920,Electric Forced Air Gas,Central Air,2,,6969,160,,521,6248,45,60,750,4091
+"13227 Rocklyn Dr, Urbandale, IA 50323",13227,Single Family Residence,1998,Forced Air Gas Natural Gas,Central Air,3,,13068,179,,839,10070,16,,4091,1022
+"420 1st St, Hull, IA 51239",51239,Single Family Residence Residential,1966,Forced Air Fireplace(s),Central Air,2,,21344,135,,584,7012,31,,,
+"8218 Plum Dr, Urbandale, IA 50322",50322,Single Family Residence,1991,Forced Air Gas Natural Gas,Central Air,2,,9147,187,,669,8032,47,34,1022,1022
+"1328 30th St, Bettendorf, IA 52722",52722,Single Family Residence,1956,Natural Gas Forced Air,Central Air,,,8040,186,,361,4332,14,4,1022,1282
+"4518 84th St, Urbandale, IA 50322",50322,Single Family Residence,1980,Forced Air Gas Natural Gas,Central Air,2,,5662,209,,568,6821,60,34,1282,1022
+"2458 E Porter Ave, Des Moines, IA 50320",50320,Single Family Residence,2008,Forced Air Gas Natural Gas,Central Air,2,,12197,224,,667,8007,3,145,1022,4091
+"1257 Ravenwood Rd, Waterloo, IA 50702",50702,,,,,,,,,,,,31,134,4091,2484
+"114 Railroad St, Norway, IA 52318",52318,Single Family Residence,1861,Forced Air Gas,Central Air,2,,6534,78,,276,3315,20,,,
+"105 Foster Blvd, Iowa Falls, IA 50126",50126,Single Family Residence,1955,Forced Air,Central Air,1,,3920,67,,212,2547,0,133,2484,1658
+"1005 N Linn St, Glenwood, IA 51534",51534,Single Family Residence,1960,Forced Air Gas Natural Gas,Central Air,2,,7405,74,,139,1672,24,92,1658,1222
+"2023 Chautauqua Pkwy, Des Moines, IA 50314",50314,Single Family Residence,1940,Forced Air Gas Natural Gas,Central Air,1,,7840,190,,265,3185,32,113,1222,4091
+"209 S 33rd St, West Des Moines, IA 50265",50265,Single Family Residence,1988,Forced Air Gas Natural Gas,Central Air,3,,23087,180,,1594,19125,26,34,,
+"20 NE Gracewood Dr, Waukee, IA 50263",50263,Single Family Residence,2009,Forced Air Gas Natural Gas,Central Air,3,300,27007,267,,892,10707,26,8,4091,759
+"8541 Gear Trl, Indianola, IA 50125",50125,Unimproved Land,,,,,,,,,2037,24439,0,76,759,1946
+"3544 Eclipse Cir, Dubuque, IA 52003",52003,SINGLE FAMILY - DETACHED,2003,Forced Air,Central Air,2,,7500,135,,669,8032,15,46,1946,1637
+"5675 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,147,1760,7,148,1637,4091
+"2314 NW North Creek Dr, Ankeny, IA 50023",50023,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,120,11761,258,,773,9274,18,15,,
+"2501 College Dr, Emmetsburg, IA 50536",50536,Single Family Residence,1969,Forced Air,Central Air,2,,22651,105,,552,6627,9,103,,
+"304 S Ash St, New London, IA 52645",52645,Single Family Residence,1991,Forced Air,Central Air,1,,8712,139,,297,3567,35,,,
+"5125 340th St NE, Iowa City, IA 52240",52240,Farm,1900,,,,,6828466,2099,,3997,47969,0,40,4091,1618
+"303 3rd St, Ida Grove, IA 51445",51445,Single Family Residence Residential,1924,Forced Air,None,2,,5227,55,,149,1785,54,,,
+"4516 Hickman Rd, Des Moines, IA 50310",50310,Single Family Residence,1938,Forced Air Gas Natural Gas,Central Air,,,10018,192,,319,3822,56,38,1618,4091
+"2700 N Shore Dr, Clear Lake, IA 50428",50428,,,,,,,,,,,,4,58,4091,1747
+"2010 2nd Ave N, Fort Dodge, IA 50501",50501,SINGLE_FAMILY,1947,Forced air Gas,Central,1,,5662,116,,201,2410,0,157,1747,3020
+"150 El Camino Real, Monticello, IA 52310",52310,Single Family Residence,1970,Forced Air Gas,Central Air,2,,30928,66,,529,6350,0,91,,
+"1812 NW Ashton Ln UNIT 4, Ankeny, IA 50023",50023,Townhouse,2000,Forced Air Gas Natural Gas,Central Air,2,150,5662,131,,393,4715,37,15,,
+"2201 Hart Ave APT 5, Des Moines, IA 50320",50320,Townhouse,2004,Forced Air Gas Natural Gas,Central Air,1,147,,126,,297,3567,9,145,3020,4091
+"715 N 2nd St, Cherokee, IA 51012",51012,Single Family Residence Residential,1889,Radiant,Central Air,1,,20038,47,,122,1466,67,93,,
+"515 N 6th St, Osage, IA 50461",50461,Single Family Residence,1912,Forced Air,Central Air,2,,9888,79,,293,3519,52,144,,
+"765 Glen Dr, Moville, IA 51039",51039,Single Family Residence Residential,1980,Forced Air,Central Air,2,,14810,103,,425,5097,24,,,
+"422 S Davis St, Ottumwa, IA 52501",52501,Unimproved Land,,,,,,,,,64,765,30,36,4091,4120
+"806 W 5th St, Storm Lake, IA 50588",50588,,,,,,,,,,,,62,90,4120,1620
+"1812 Gibson St, Cedar Falls, IA 50613",50613,Single Family Residence,1955,Forced Air Natural Gas,Central Air,1,,6098,86,,319,3822,0,40,,
+"269 E Williams St, Postville, IA 52162",52162,Single Family Residence,1937,Forced Air,Central Air,1,,6969,57,,175,2104,40,,,
+"147 Northridge Dr, West Branch, IA 52358",52358,Townhouse Single Family Residence,1996,Natural Gas Forced Air,Central Air,2,,,145,,404,4842,43,,,
+"4900 Alburnett Rd, Marion, IA 52302",52302,Single Family Residence,1971,Forced Air,Central Air,2,,148540,265,,1137,13640,2,33,1620,1278
+"1106 NW Church St, Leon, IA 50144",50144,Single Family Residence,1987,Forced Air,Central Air,2,,20473,67,,382,4587,25,,,
+"2203 Avery Ave, Norwalk, IA 50211",50211,Single Family Residence,1989,Electric Forced Air Natural Gas,Central Air,1,,8276,184,,372,4462,21,59,1278,750
+"220 NE Eaglewood Dr, Ankeny, IA 50021",50021,Townhouse,1999,Forced Air Gas Natural Gas,Central Air,2,230,3484,192,,690,8285,33,24,,
+"1600 Southview Cir, Fairfield, IA 52556",52556,Single Family Residence,1978,Forced Air,Central Air,1,,8712,22,,87,1038,8,72,,
+"1725 Mondamin Ave, Des Moines, IA 50314",50314,Single Family Residence,1913,Forced Air Gas Natural Gas,Central Air,1,,6534,135,,303,3634,53,113,750,4091
+"1535 SE Olson Dr, Waukee, IA 50263",50263,Single Family Residence,2002,Forced Air Gas Natural Gas,Central Air,2,,9147,199,,648,7778,0,8,4091,759
+"202 N Linn St #305, Iowa City, IA 52245",52245,,,,,,,,,,,,92,27,759,1618
+"3701 Pawnee Pl, Sioux City, IA 51104",51104,Single Family Residence Residential,1964,Forced Air Fireplace(s),Central Air,2,,9750,116,,515,6184,20,64,1618,3890
+"5018 Montclair Dr NW, Cedar Rapids, IA 52405",52405,Single Family Residence,1964,Forced Air Gas,Central Air,1,,,117,,372,4462,17,105,3890,3336
+"2821 200th St, Spirit Lake, IA 51360",51360,Single Family Residence,1920,Forced Air,Central Air,4,,34412,76,,372,4460,0,86,3336,1413
+"427 S Tama St, Manchester, IA 52057",52057,Single Family Residence,1900,Forced Air Natural Gas,Central Air,1,,8712,75,,177,2129,55,95,,
+"75 E Chestnut St, North Liberty, IA 52317",52317,Multi Family Single Family Residence,1971,Forced Air,Ceiling Fan(s) Central Air,2,,,105,,733,8798,45,14,1413,602
+"2729 Farragut Pl, Davenport, IA 52804",52804,Single Family Residence,1958,Natural Gas Forced Air,Central Air,,,10136,108,,297,3567,26,137,602,3827
+"5636 Brook View Ave, Des Moines, IA 50317",50317,Unimproved Land,,,,,,,,,140,1683,7,148,3827,4091
+"304 Pennsylvania Ave, Story City, IA 50248",50248,SINGLE_FAMILY,1948,Forced air Gas,Central,2,,13939,132,,450,5406,43,41,,
+"5449 Red Fox Rd, Bettendorf, IA 52722",52722,Single Family Residence,2003,Natural Gas Forced Air,Central Air,,100,6969,114,,637,7647,4,4,4091,1282
+"427 4th Ave SE, Oelwein, IA 50662",50662,Single Family Residence,1941,Forced Air Natural Gas,Central Air,1,,6534,76,,162,1938,62,115,1282,1546
+"809 Cherry St NW, Bondurant, IA 50035",50035,Townhouse,2021,Forced Air Gas Natural Gas,Central Air,2,120,3049,201,,499,5990,15,64,,
+"3080 120th St, Van Meter, IA 50261",50261,Single Family Residence,1955,Gas Natural Gas,Central Air,4,,834610,323,,1137,13642,0,46,,
+"1360 Harrison Dr, Clinton, IA 52732",52732,Single Family Residence,1900,Natural Gas Forced Air,Central Air,,,12197,49,,95,1145,27,101,1546,3647
+"7 S 5th St, Eldridge, IA 52748",52748,Single Family Residence,2021,Natural Gas Forced Air,,,,8712,201,,512,6138,63,66,3647,602
+"10016 Powell Ave, Johnston, IA 50131",10016,Single Family Residence,2021,Forced Air Gas Natural Gas,Central Air,3,150,7840,222,,815,9784,6,357,602,1198
+"602 S 7th St, Mapleton, IA 51034",51034,SINGLE_FAMILY,1953,Forced air Gas,Other,,,7919,76,,170,2040,32,,,
+"56744 260th Ave, Chariton, IA 50049",56744,Single Family Residence,2000,Forced Air,Central Air,2,,757944,206,,637,7647,0,,,
+"2058 Sky View Dr, Marion, IA 52302",52302,Single Family Residence,1988,Forced Air Gas,Central Air,3,,49658,109,,1105,13257,4,33,1198,1278
+"4139 Anna St, Iowa City, IA 52245",52245,Single Family Residence,2022,Forced Air Natural Gas,Ceiling Fan(s) Central Air Electric,2,,,164,,892,10707,14,27,1278,1618
+"3685 37th Ave SW UNIT C, Cedar Rapids, IA 52404",52404,Townhouse,2005,Forced Air,Central Air,2,,172933,127,,446,5355,36,106,1618,3336
+"229 Quince Rd, Walnut, IA 51577",51577,Single Family Residence,1900,Propane,,,,,,,0,0,0,,,
+"1710 Forest Ave, Waterloo, IA 50702",50702,Single Family Residence,1938,Forced Air Natural Gas,Central Air,1,,6534,71,,254,3047,63,134,3336,2484
+"1222 Drake Ave, Centerville, IA 52544",52544,Single Family Residence,1914,Forced Air,Central Air,2,,8276,58,,168,2014,39,,2484,2363
+"205 1st Ave S, Humboldt, IA 50548",50548,Single Family Residence,1930,Forced Air,Window Unit(s),,,4356,64,,89,1071,63,80,,
+"417 S Marion Ave, Washington, IA 52353",52353,Single Family Residence,1906,Forced Air,Central Air,,,6969,118,,276,3312,79,155,2363,1805
